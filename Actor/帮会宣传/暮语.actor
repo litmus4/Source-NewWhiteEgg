@@ -6,8 +6,8 @@ BindNum=0
 
 [Part1]
 Have=1
-Mesh=data\source\player\f2\部件\f2_1001_head.mesh
-Mtl=data\source\player\f2\部件\f2_1001_head.mtl
+Mesh=data\source\player\f2\部件\f2_0000_head.mesh
+Mtl=data\source\player\f2\部件\f2_0000_head.mtl
 Detail=0,0
 
 [Part2]
