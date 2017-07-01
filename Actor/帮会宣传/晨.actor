@@ -2,7 +2,7 @@
 DependModel=data\source\player\f2\²¿¼þ\mdl\f2.mdl
 FaceDefIni=..\MovieEditor\source\FaceData\Ò¹Ü°³¿_20170512-223726.ini
 bReDress=1
-BindNum=0
+BindNum=2
 
 [Part1]
 Have=1
@@ -45,4 +45,22 @@ Have=0
 
 [Part10]
 Have=0
+
+[Bind0]
+Mesh=data\source\item\weapon\sword\rh_sword_155b.mesh
+Mtl=data\source\item\weapon\sword\rh_sword_155b.mtl
+Socket=s_rh
+BindType=1
+Trans=0.000000,0.000000,0.000000
+Scaling=1.000000,1.000000,1.000000
+Rotation=0.000000,0.000000,0.000000,1.000000
+
+[Bind1]
+Mesh=data\source\item\weapon\sword\rh_sword_155.mesh
+Mtl=data\source\item\weapon\sword\rh_sword_155.mtl
+Socket=s_lh
+BindType=1
+Trans=0.000000,0.000000,0.000000
+Scaling=1.000000,1.000000,1.000000
+Rotation=0.000000,0.000000,0.000000,1.000000
 
