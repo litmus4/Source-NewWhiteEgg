@@ -1,0 +1,12 @@
+{
+    "_tableName": " systemLayer",
+    "layerLocked": 0,
+    "defaultLayer": 0,
+    "uuid": "{ca6fca27-6d16-419c-8cbf-b40c121d67be}",
+    "hidden": 0,
+    "doNotSave": 0,
+    "readOnly": 0,
+    "deletable": 0,
+    "layerProperty": 1,
+    "layerSingleton": 1
+}

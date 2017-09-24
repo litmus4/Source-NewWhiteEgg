@@ -1,0 +1,12 @@
+{
+    "_tableName": "defaultLayer",
+    "layerLocked": 0,
+    "defaultLayer": 1,
+    "uuid": "{cdc83033-d428-471c-968b-e4819a61bedd}",
+    "hidden": 0,
+    "doNotSave": 0,
+    "readOnly": 0,
+    "deletable": 1,
+    "layerProperty": 0,
+    "layerSingleton": 1
+}

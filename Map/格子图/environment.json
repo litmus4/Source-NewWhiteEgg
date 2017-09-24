@@ -1,0 +1,129 @@
+{
+    "environmentType": 0,
+    "sunlight": {
+        "dir": [
+            0.6561932563781738,
+            0.6450569033622742,
+            -0.391550749540329
+        ],
+        "diffuse": [
+            0.984210729598999,
+            0.9424984455108643,
+            0.836871862411499,
+            1.0
+        ],
+        "specular": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "diffuseIntensity": 1.0,
+        "specularIntensity": 1.0
+    },
+    "playerLight": {
+        "diffuse": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "diffuseIntensity": 1.0
+    },
+    "cameraLight": {
+        "enable": 1,
+        "baseColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "intensity": 1.0,
+        "radius": 500.0,
+        "length": 1500.0,
+        "radialAttenuationStart": 0.0,
+        "axialAttenuationStart": 0.0
+    },
+    "envMap": {
+        "intensity": 1.0,
+        "saturation": 1.0,
+        "playerIntensity": 1.0,
+        "playerSaturation": 1.0
+    },
+    "speedTreeEnv": {
+        "lodLevelOption": 0,
+        "globalLodScaleTimes": 1.0,
+        "enableWindAnimationOriginal": 1,
+        "enableWindAnimationLod0": 0,
+        "enableWindAnimationLod1": 0,
+        "enableWindAnimationLod2": 0,
+        "enableWindAnimationBillboard": 0
+    },
+    "oldSkySkyBox": {
+        "topColor": [
+            0.0,
+            0.4000000059604645,
+            1.0,
+            1.0
+        ],
+        "midColor": [
+            0.0,
+            0.800000011920929,
+            1.0,
+            1.0
+        ],
+        "botmColor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "topPercent": 70.0,
+        "midPercent": 30.0,
+        "botmPercent": 100.0,
+        "topMidBlendPercent": 70.0,
+        "midBotmBlendPercent": 30.0
+    },
+    "oldSkyWeather": {
+        "enable": 0,
+        "enableSnowCover": 0,
+        "enableSplash": 0,
+        "enableDropShockWave": 0,
+        "density": 10.0,
+        "densityGate": 10.0,
+        "speed": 150.0,
+        "speedGate": 800.0,
+        "length": 10.0,
+        "width": 10.0,
+        "alpha": 0.20000000298023225,
+        "wind": 0.0,
+        "brightnessPercent": 1.0,
+        "particalTexture": "data/public/stainForDyWeather.dds"
+    },
+    "cloudList": {},
+    "farMountainList": {},
+    "lensflares": {
+        "sunLensflareDesc": {
+            "lensflareDescTexturePath": "data/public/defaultscene/flare.tga",
+            "lensflareDescTexNumX": 3,
+            "lensflareDescTexNumY": 3,
+            "lensflareDescVisibility": 1.0,
+            "lensflareDescBound": 0.30000001192092898,
+            "lensflareDescDummyLenSize": 0.009999999776482582,
+            "lensflareList": {}
+        },
+        "moonLensflareDesc": {
+            "lensflareDescTexturePath": "data/public/defaultscene/MoonFlare.tga",
+            "lensflareDescTexNumX": 1,
+            "lensflareDescTexNumY": 1,
+            "lensflareDescVisibility": 1.0,
+            "lensflareDescBound": 0.30000001192092898,
+            "lensflareDescDummyLenSize": 0.009999999776482582,
+            "lensflareList": {}
+        }
+    },
+    "globalEnvironmentSphere": {
+        "savefileSpecular": "data\\buttest2\\格子图\\env_probe\\skybox_s.dds",
+        "savefileDiffuse": "data\\buttest2\\格子图\\env_probe\\skybox_d.dds"
+    }
+}

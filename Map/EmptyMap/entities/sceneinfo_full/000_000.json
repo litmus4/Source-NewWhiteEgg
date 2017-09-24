@@ -1,0 +1,1078 @@
+{
+    "__internal_type": "JXSubSceneInfo",
+    "worldObjects": {
+        "{9e484be7-0ad7-4bd9-9e57-a7c4a98d47f3}": {
+            "_tableName": "systemCamera0",
+            "_tableType": "Camera",
+            "comEditor": {
+                "_tableName": "Editor",
+                "_tableType": "comEditor",
+                "editorOnly": 0,
+                "editorSelectable": 1,
+                "listInResourcePanel": 1,
+                "templateFile": "camera.json",
+                "hostLayer": "ref.{ca6fca27-6d16-419c-8cbf-b40c121d67be}",
+                "editorReadOnly": 0,
+                "editorDeletable": 0,
+                "isSingleton": 1
+            },
+            "comRunTime": {
+                "_tableName": "Runtime",
+                "_tableType": "comRunTime",
+                "actorBoundBoxVisible": 0,
+                "actorRefreshFlag": 0,
+                "actorRemoveFromCacheFlag": 0,
+                "actorOutlineVisible": 0,
+                "filtrated": 0
+            },
+            "comBasic": {
+                "_tableName": "Basic",
+                "_tableType": "comBasic",
+                "actorRotationCenter": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "actorScalingCenter": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "actorSelectable": 1,
+                "uuid": "{9e484be7-0ad7-4bd9-9e57-a7c4a98d47f3}",
+                "actorBoundBoxType": 1,
+                "actorBoundBoxFrequency": 1000,
+                "actorBoundBoxMax": [
+                    5609.68798828125,
+                    468.4578552246094,
+                    6196.19921875
+                ],
+                "actorBoundBoxMin": [
+                    5518.01513671875,
+                    412.4565734863281,
+                    6130.44140625
+                ],
+                "actorScalingRotation": [
+                    1.6855992078781129,
+                    12.167410850524903,
+                    13.924015045166016
+                ],
+                "actorLocalMatrix": [
+                    0.3807124197483063,
+                    -0.0008727586828172207,
+                    -0.917460560798645,
+                    0.0,
+                    0.13118313252925874,
+                    0.9870874285697937,
+                    0.05558358505368233,
+                    0.0,
+                    0.9055708050727844,
+                    -0.14077641069889069,
+                    0.37711429595947268,
+                    0.0,
+                    5598.46875,
+                    424.5058288574219,
+                    6177.72607421875,
+                    1.0
+                ]
+            },
+            "comRender": {
+                "_tableName": "Render",
+                "_tableType": "comRender",
+                "actorModel": "data/material/Model/Camera.Mesh",
+                "actorAlpha": 1.0,
+                "actorVisible": 1,
+                "actorMtl": "",
+                "actorAni": "",
+                "actorEnableRender": 1,
+                "actorBoundBoxColor": [
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0
+                ],
+                "actorBoundBoxGeometryColor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.10000000149011612
+                ],
+                "actorFixViewDistance": 0,
+                "modelSet": "",
+                "usedAsIcon": 0,
+                "acceptDecal": 1
+            },
+            "comActor": {
+                "_tableName": "Actor",
+                "_tableType": "comActor",
+                "actorModel": "",
+                "actorMtl": "",
+                "actorAction": 0,
+                "actorFlag": 1
+            },
+            "comCamera": {
+                "_tableName": "Camera",
+                "_tableType": "comCamera",
+                "focusDistance": 10000.0,
+                "minVisibleDistance": 10.0,
+                "maxVisibleDistance": 800000.0,
+                "projectionType": 0,
+                "systemCamera": 0
+            },
+            "comPerspective": {
+                "_tableName": "Perspective",
+                "_tableType": "comPerspective",
+                "fovAngleY": 45.0,
+                "aspectRatio": 1.3333333730697632,
+                "reversePerspective": 0
+            },
+            "comOrthographic": {
+                "_tableName": "Orthographic",
+                "_tableType": "comOrthographic",
+                "visibleWidth": 8000.0,
+                "visibleHeight": 6000.0
+            },
+            "comGeoPyramidLine": {
+                "_tableName": "GeoPyramidLine",
+                "_tableType": "comGeoPyramidLine",
+                "Height": 497055.78125,
+                "Visible": 0,
+                "WOMatrix": [
+                    0.3807124197483063,
+                    -0.0008727586828172207,
+                    -0.917460560798645,
+                    0.0,
+                    0.13118313252925874,
+                    0.9870874285697937,
+                    0.05558358505368233,
+                    0.0,
+                    0.9055708050727844,
+                    -0.14077641069889069,
+                    0.37711429595947268,
+                    0.0,
+                    5598.46875,
+                    424.5058288574219,
+                    6177.72607421875,
+                    1.0
+                ],
+                "Color": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.20000000298023225
+                ],
+                "Ratio": 0.00001249999968422344,
+                "Length": 662741.0625,
+                "Depth": 800000.0,
+                "DepthEnabled": 1
+            },
+            "comGeoPyramidMesh": {
+                "_tableName": "GeoPyramidMesh",
+                "_tableType": "comGeoPyramidMesh",
+                "Height": 497055.78125,
+                "Visible": 0,
+                "WOMatrix": [
+                    0.3807124197483063,
+                    -0.0008727586828172207,
+                    -0.917460560798645,
+                    0.0,
+                    0.13118313252925874,
+                    0.9870874285697937,
+                    0.05558358505368233,
+                    0.0,
+                    0.9055708050727844,
+                    -0.14077641069889069,
+                    0.37711429595947268,
+                    0.0,
+                    5598.46875,
+                    424.5058288574219,
+                    6177.72607421875,
+                    1.0
+                ],
+                "Color": {
+                    "1": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    "2": [
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.20000000298023225
+                    ],
+                    "3": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.20000000298023225
+                    ],
+                    "4": [
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.20000000298023225
+                    ],
+                    "5": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.20000000298023225
+                    ],
+                    "0": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "Ratio": 0.00001249999968422344,
+                "Length": 662741.0625,
+                "Depth": 800000.0,
+                "DepthEnabled": 1
+            },
+            "Version": 1
+        },
+        "{4f8b2b3c-4c18-4f55-8113-5f5594081551}": {
+            "_tableName": "systemCamera1",
+            "_tableType": "Camera",
+            "comEditor": {
+                "_tableName": "Editor",
+                "_tableType": "comEditor",
+                "editorOnly": 0,
+                "editorSelectable": 1,
+                "listInResourcePanel": 1,
+                "templateFile": "camera.json",
+                "hostLayer": "ref.{ca6fca27-6d16-419c-8cbf-b40c121d67be}",
+                "editorReadOnly": 0,
+                "editorDeletable": 0,
+                "isSingleton": 1
+            },
+            "comRunTime": {
+                "_tableName": "Runtime",
+                "_tableType": "comRunTime",
+                "actorBoundBoxVisible": 0,
+                "actorRefreshFlag": 0,
+                "actorRemoveFromCacheFlag": 0,
+                "actorOutlineVisible": 0,
+                "filtrated": 0
+            },
+            "comBasic": {
+                "_tableName": "Basic",
+                "_tableType": "comBasic",
+                "actorRotationCenter": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "actorScalingCenter": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "actorSelectable": 1,
+                "uuid": "{4f8b2b3c-4c18-4f55-8113-5f5594081551}",
+                "actorBoundBoxType": 1,
+                "actorBoundBoxFrequency": 1000,
+                "actorBoundBoxMax": [
+                    19.143421173095704,
+                    5082.4814453125,
+                    33.993709564208987
+                ],
+                "actorBoundBoxMin": [
+                    -17.143413543701173,
+                    4998.77001953125,
+                    -19.435012817382814
+                ],
+                "actorScalingRotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "actorLocalMatrix": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.10452842712402344,
+                    0.9945219159126282,
+                    0.0,
+                    0.0,
+                    -0.9945219159126282,
+                    0.10452842712402344,
+                    0.0,
+                    1.0,
+                    5000.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "comRender": {
+                "_tableName": "Render",
+                "_tableType": "comRender",
+                "actorModel": "data/material/Model/Camera.Mesh",
+                "actorAlpha": 1.0,
+                "actorVisible": 1,
+                "actorMtl": "",
+                "actorAni": "",
+                "actorEnableRender": 1,
+                "actorBoundBoxColor": [
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0
+                ],
+                "actorBoundBoxGeometryColor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.10000000149011612
+                ],
+                "actorFixViewDistance": 0,
+                "modelSet": "",
+                "usedAsIcon": 0,
+                "acceptDecal": 1
+            },
+            "comActor": {
+                "_tableName": "Actor",
+                "_tableType": "comActor",
+                "actorModel": "",
+                "actorMtl": "",
+                "actorAction": 0,
+                "actorFlag": 1
+            },
+            "comCamera": {
+                "_tableName": "Camera",
+                "_tableType": "comCamera",
+                "focusDistance": 10000.0,
+                "minVisibleDistance": 10.0,
+                "maxVisibleDistance": 800000.0,
+                "projectionType": 0,
+                "systemCamera": 1
+            },
+            "comPerspective": {
+                "_tableName": "Perspective",
+                "_tableType": "comPerspective",
+                "fovAngleY": 45.0,
+                "aspectRatio": 1.3333333730697632,
+                "reversePerspective": 0
+            },
+            "comOrthographic": {
+                "_tableName": "Orthographic",
+                "_tableType": "comOrthographic",
+                "visibleWidth": 8000.0,
+                "visibleHeight": 6000.0
+            },
+            "comGeoPyramidLine": {
+                "_tableName": "GeoPyramidLine",
+                "_tableType": "comGeoPyramidLine",
+                "Height": 497055.78125,
+                "Visible": 0,
+                "WOMatrix": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.10452842712402344,
+                    0.9945219159126282,
+                    0.0,
+                    0.0,
+                    -0.9945219159126282,
+                    0.10452842712402344,
+                    0.0,
+                    1.0,
+                    5000.0,
+                    1.0,
+                    1.0
+                ],
+                "Color": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.20000000298023225
+                ],
+                "Ratio": 0.00001249999968422344,
+                "Length": 662741.0625,
+                "Depth": 800000.0,
+                "DepthEnabled": 1
+            },
+            "comGeoPyramidMesh": {
+                "_tableName": "GeoPyramidMesh",
+                "_tableType": "comGeoPyramidMesh",
+                "Height": 497055.78125,
+                "Visible": 0,
+                "WOMatrix": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.10452842712402344,
+                    0.9945219159126282,
+                    0.0,
+                    0.0,
+                    -0.9945219159126282,
+                    0.10452842712402344,
+                    0.0,
+                    1.0,
+                    5000.0,
+                    1.0,
+                    1.0
+                ],
+                "Color": {
+                    "1": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    "2": [
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.20000000298023225
+                    ],
+                    "3": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.20000000298023225
+                    ],
+                    "4": [
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.20000000298023225
+                    ],
+                    "5": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.20000000298023225
+                    ],
+                    "0": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "Ratio": 0.00001249999968422344,
+                "Length": 662741.0625,
+                "Depth": 800000.0,
+                "DepthEnabled": 1
+            },
+            "Version": 1
+        },
+        "{7b43e257-3528-4fec-9dc8-8de7a8cf003a}": {
+            "_tableName": "systemCamera2",
+            "_tableType": "Camera",
+            "comEditor": {
+                "_tableName": "Editor",
+                "_tableType": "comEditor",
+                "editorOnly": 0,
+                "editorSelectable": 1,
+                "listInResourcePanel": 1,
+                "templateFile": "camera.json",
+                "hostLayer": "ref.{ca6fca27-6d16-419c-8cbf-b40c121d67be}",
+                "editorReadOnly": 0,
+                "editorDeletable": 0,
+                "isSingleton": 1
+            },
+            "comRunTime": {
+                "_tableName": "Runtime",
+                "_tableType": "comRunTime",
+                "actorBoundBoxVisible": 0,
+                "actorRefreshFlag": 0,
+                "actorRemoveFromCacheFlag": 0,
+                "actorOutlineVisible": 0,
+                "filtrated": 0
+            },
+            "comBasic": {
+                "_tableName": "Basic",
+                "_tableType": "comBasic",
+                "actorRotationCenter": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "actorScalingCenter": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "actorSelectable": 1,
+                "uuid": "{7b43e257-3528-4fec-9dc8-8de7a8cf003a}",
+                "actorBoundBoxType": 1,
+                "actorBoundBoxFrequency": 1000,
+                "actorBoundBoxMax": [
+                    19.143421173095704,
+                    5082.4814453125,
+                    33.993709564208987
+                ],
+                "actorBoundBoxMin": [
+                    -17.143413543701173,
+                    4998.77001953125,
+                    -19.435012817382814
+                ],
+                "actorScalingRotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "actorLocalMatrix": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.10452842712402344,
+                    0.9945219159126282,
+                    0.0,
+                    0.0,
+                    -0.9945219159126282,
+                    0.10452842712402344,
+                    0.0,
+                    1.0,
+                    5000.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "comRender": {
+                "_tableName": "Render",
+                "_tableType": "comRender",
+                "actorModel": "data/material/Model/Camera.Mesh",
+                "actorAlpha": 1.0,
+                "actorVisible": 1,
+                "actorMtl": "",
+                "actorAni": "",
+                "actorEnableRender": 1,
+                "actorBoundBoxColor": [
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0
+                ],
+                "actorBoundBoxGeometryColor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.10000000149011612
+                ],
+                "actorFixViewDistance": 0,
+                "modelSet": "",
+                "usedAsIcon": 0,
+                "acceptDecal": 1
+            },
+            "comActor": {
+                "_tableName": "Actor",
+                "_tableType": "comActor",
+                "actorModel": "",
+                "actorMtl": "",
+                "actorAction": 0,
+                "actorFlag": 1
+            },
+            "comCamera": {
+                "_tableName": "Camera",
+                "_tableType": "comCamera",
+                "focusDistance": 10000.0,
+                "minVisibleDistance": 10.0,
+                "maxVisibleDistance": 800000.0,
+                "projectionType": 0,
+                "systemCamera": 2
+            },
+            "comPerspective": {
+                "_tableName": "Perspective",
+                "_tableType": "comPerspective",
+                "fovAngleY": 45.0,
+                "aspectRatio": 1.3333333730697632,
+                "reversePerspective": 0
+            },
+            "comOrthographic": {
+                "_tableName": "Orthographic",
+                "_tableType": "comOrthographic",
+                "visibleWidth": 8000.0,
+                "visibleHeight": 6000.0
+            },
+            "comGeoPyramidLine": {
+                "_tableName": "GeoPyramidLine",
+                "_tableType": "comGeoPyramidLine",
+                "Height": 497055.78125,
+                "Visible": 0,
+                "WOMatrix": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.10452842712402344,
+                    0.9945219159126282,
+                    0.0,
+                    0.0,
+                    -0.9945219159126282,
+                    0.10452842712402344,
+                    0.0,
+                    1.0,
+                    5000.0,
+                    1.0,
+                    1.0
+                ],
+                "Color": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.20000000298023225
+                ],
+                "Ratio": 0.00001249999968422344,
+                "Length": 662741.0625,
+                "Depth": 800000.0,
+                "DepthEnabled": 1
+            },
+            "comGeoPyramidMesh": {
+                "_tableName": "GeoPyramidMesh",
+                "_tableType": "comGeoPyramidMesh",
+                "Height": 497055.78125,
+                "Visible": 0,
+                "WOMatrix": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.10452842712402344,
+                    0.9945219159126282,
+                    0.0,
+                    0.0,
+                    -0.9945219159126282,
+                    0.10452842712402344,
+                    0.0,
+                    1.0,
+                    5000.0,
+                    1.0,
+                    1.0
+                ],
+                "Color": {
+                    "1": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    "2": [
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.20000000298023225
+                    ],
+                    "3": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.20000000298023225
+                    ],
+                    "4": [
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.20000000298023225
+                    ],
+                    "5": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.20000000298023225
+                    ],
+                    "0": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "Ratio": 0.00001249999968422344,
+                "Length": 662741.0625,
+                "Depth": 800000.0,
+                "DepthEnabled": 1
+            },
+            "Version": 1
+        },
+        "{1c73307d-c56e-48f8-8713-e06d32b54349}": {
+            "_tableName": "systemCamera3",
+            "_tableType": "Camera",
+            "comEditor": {
+                "_tableName": "Editor",
+                "_tableType": "comEditor",
+                "editorOnly": 0,
+                "editorSelectable": 1,
+                "listInResourcePanel": 1,
+                "templateFile": "camera.json",
+                "hostLayer": "ref.{ca6fca27-6d16-419c-8cbf-b40c121d67be}",
+                "editorReadOnly": 0,
+                "editorDeletable": 0,
+                "isSingleton": 1
+            },
+            "comRunTime": {
+                "_tableName": "Runtime",
+                "_tableType": "comRunTime",
+                "actorBoundBoxVisible": 0,
+                "actorRefreshFlag": 0,
+                "actorRemoveFromCacheFlag": 0,
+                "actorOutlineVisible": 0,
+                "filtrated": 0
+            },
+            "comBasic": {
+                "_tableName": "Basic",
+                "_tableType": "comBasic",
+                "actorRotationCenter": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "actorScalingCenter": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "actorSelectable": 1,
+                "uuid": "{1c73307d-c56e-48f8-8713-e06d32b54349}",
+                "actorBoundBoxType": 1,
+                "actorBoundBoxFrequency": 1000,
+                "actorBoundBoxMax": [
+                    19.143421173095704,
+                    5082.4814453125,
+                    33.993709564208987
+                ],
+                "actorBoundBoxMin": [
+                    -17.143413543701173,
+                    4998.77001953125,
+                    -19.435012817382814
+                ],
+                "actorScalingRotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "actorLocalMatrix": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.10452842712402344,
+                    0.9945219159126282,
+                    0.0,
+                    0.0,
+                    -0.9945219159126282,
+                    0.10452842712402344,
+                    0.0,
+                    1.0,
+                    5000.0,
+                    1.0,
+                    1.0
+                ]
+            },
+            "comRender": {
+                "_tableName": "Render",
+                "_tableType": "comRender",
+                "actorModel": "data/material/Model/Camera.Mesh",
+                "actorAlpha": 1.0,
+                "actorVisible": 1,
+                "actorMtl": "",
+                "actorAni": "",
+                "actorEnableRender": 1,
+                "actorBoundBoxColor": [
+                    1.0,
+                    1.0,
+                    0.0,
+                    1.0
+                ],
+                "actorBoundBoxGeometryColor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.10000000149011612
+                ],
+                "actorFixViewDistance": 0,
+                "modelSet": "",
+                "usedAsIcon": 0,
+                "acceptDecal": 1
+            },
+            "comActor": {
+                "_tableName": "Actor",
+                "_tableType": "comActor",
+                "actorModel": "",
+                "actorMtl": "",
+                "actorAction": 0,
+                "actorFlag": 1
+            },
+            "comCamera": {
+                "_tableName": "Camera",
+                "_tableType": "comCamera",
+                "focusDistance": 10000.0,
+                "minVisibleDistance": 10.0,
+                "maxVisibleDistance": 800000.0,
+                "projectionType": 0,
+                "systemCamera": 3
+            },
+            "comPerspective": {
+                "_tableName": "Perspective",
+                "_tableType": "comPerspective",
+                "fovAngleY": 45.0,
+                "aspectRatio": 1.3333333730697632,
+                "reversePerspective": 0
+            },
+            "comOrthographic": {
+                "_tableName": "Orthographic",
+                "_tableType": "comOrthographic",
+                "visibleWidth": 8000.0,
+                "visibleHeight": 6000.0
+            },
+            "comGeoPyramidLine": {
+                "_tableName": "GeoPyramidLine",
+                "_tableType": "comGeoPyramidLine",
+                "Height": 497055.78125,
+                "Visible": 0,
+                "WOMatrix": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.10452842712402344,
+                    0.9945219159126282,
+                    0.0,
+                    0.0,
+                    -0.9945219159126282,
+                    0.10452842712402344,
+                    0.0,
+                    1.0,
+                    5000.0,
+                    1.0,
+                    1.0
+                ],
+                "Color": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.20000000298023225
+                ],
+                "Ratio": 0.00001249999968422344,
+                "Length": 662741.0625,
+                "Depth": 800000.0,
+                "DepthEnabled": 1
+            },
+            "comGeoPyramidMesh": {
+                "_tableName": "GeoPyramidMesh",
+                "_tableType": "comGeoPyramidMesh",
+                "Height": 497055.78125,
+                "Visible": 0,
+                "WOMatrix": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.10452842712402344,
+                    0.9945219159126282,
+                    0.0,
+                    0.0,
+                    -0.9945219159126282,
+                    0.10452842712402344,
+                    0.0,
+                    1.0,
+                    5000.0,
+                    1.0,
+                    1.0
+                ],
+                "Color": {
+                    "1": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.0
+                    ],
+                    "2": [
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.20000000298023225
+                    ],
+                    "3": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.20000000298023225
+                    ],
+                    "4": [
+                        0.0,
+                        0.0,
+                        1.0,
+                        0.20000000298023225
+                    ],
+                    "5": [
+                        1.0,
+                        1.0,
+                        0.0,
+                        0.20000000298023225
+                    ],
+                    "0": [
+                        1.0,
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                "Ratio": 0.00001249999968422344,
+                "Length": 662741.0625,
+                "Depth": 800000.0,
+                "DepthEnabled": 1
+            },
+            "Version": 1
+        },
+        "{26014354-7345-4F23-9D27-DE77527293D2}": {
+            "_tableName": "globalEnvSphere",
+            "_tableType": "environmentSphere",
+            "comEditor": {
+                "_tableName": "Editor",
+                "_tableType": "comEditor",
+                "editorOnly": 0,
+                "editorSelectable": 1,
+                "listInResourcePanel": 1,
+                "templateFile": "environmentsphere.json",
+                "hostLayer": "ref.{ca6fca27-6d16-419c-8cbf-b40c121d67be}",
+                "editorReadOnly": 0,
+                "editorDeletable": 0,
+                "isSingleton": 1
+            },
+            "comRunTime": {
+                "_tableName": "Runtime",
+                "_tableType": "comRunTime",
+                "actorBoundBoxVisible": 0,
+                "actorRefreshFlag": 0,
+                "actorRemoveFromCacheFlag": 0,
+                "actorOutlineVisible": 0,
+                "filtrated": 0
+            },
+            "comBasic": {
+                "_tableName": "Basic",
+                "_tableType": "comBasic",
+                "actorRotationCenter": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "actorScalingCenter": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "actorSelectable": 1,
+                "uuid": "{26014354-7345-4F23-9D27-DE77527293D2}",
+                "actorBoundBoxType": 0,
+                "actorBoundBoxFrequency": 1000,
+                "actorBoundBoxMax": [
+                    26600.0,
+                    1000.0,
+                    26600.0
+                ],
+                "actorBoundBoxMin": [
+                    24600.0,
+                    -1000.0,
+                    24600.0
+                ],
+                "actorScalingRotation": [
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "actorLocalMatrix": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    25600.0,
+                    0.0,
+                    25600.0,
+                    1.0
+                ]
+            },
+            "comActor": {
+                "_tableName": "Actor",
+                "_tableType": "comActor",
+                "actorModel": "",
+                "actorMtl": "",
+                "actorAction": 0,
+                "actorFlag": 1
+            },
+            "comEnvironmentSphere": {
+                "_tableName": "Environment Sphere",
+                "_tableType": "comEnvironmentSphere",
+                "effectiveRadius": 1000.0,
+                "refresh": 0,
+                "isGlobalEnvSphere": 1,
+                "saveflag": 2,
+                "envSphereTemplateFile": "data\\editor\\sceneEditor\\EnvProbe\\evn_ probe.Mesh",
+                "delayRefresh": 0,
+                "useFile": 0,
+                "filePath": "data\\public\\evn\\skybox.dds",
+                "customAtmoBottom": 1,
+                "atmoBottomColorStartY": 0.0,
+                "atmoBottomColorLength": 0.0,
+                "atmoBottomColor": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "savefileSpecular": "data\\buttest2\\emptymap\\env_probe\\skybox_s.dds",
+                "savefileDiffuse": "data\\buttest2\\emptymap\\env_probe\\skybox_d.dds",
+                "mapfilePath": "h:\\j3head_hd\\sword3-products\\trunk\\client\\data\\buttest2\\格子图\\格子图.jsonmap",
+                "envProbeType": 0
+            },
+            "comGeoSphereLine": {
+                "_tableName": "GeoSphereLine",
+                "_tableType": "comGeoSphereLine",
+                "Visible": 0,
+                "WOMatrix": [
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    25600.0,
+                    0.0,
+                    25600.0,
+                    1.0
+                ],
+                "Color": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.20000000298023225
+                ],
+                "Radius": 1000.0,
+                "DepthEnabled": 0
+            },
+            "Version": 1
+        }
+    }
+}

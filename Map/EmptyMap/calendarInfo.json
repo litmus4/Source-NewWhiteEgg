@@ -1,0 +1,153 @@
+{
+    "__internal_type": "CalendarInfo",
+    "calendarInfo": {
+        "_tableType": "TrueSKYCalendar",
+        "singleYear": {
+            "_tableType": "TrueSKYCalendarYear",
+            "1": {
+                "_tableType": "TrueSKYCalendarMonth",
+                "days": {
+                    "_tableType": "ObjContainer",
+                    "count": 1,
+                    "id": 1,
+                    "item_0": {
+                        "_tableType": "TrueSKYCalendarDay",
+                        "sqFile": "data\\public\\truesky\\Sequences\\Default.sq"
+                    }
+                }
+            },
+            "2": {
+                "_tableType": "TrueSKYCalendarMonth",
+                "days": {
+                    "_tableType": "ObjContainer",
+                    "count": 1,
+                    "id": 1,
+                    "item_0": {
+                        "_tableType": "TrueSKYCalendarDay",
+                        "sqFile": "data\\public\\truesky\\Sequences\\Default.sq"
+                    }
+                }
+            },
+            "3": {
+                "_tableType": "TrueSKYCalendarMonth",
+                "days": {
+                    "_tableType": "ObjContainer",
+                    "count": 1,
+                    "id": 1,
+                    "item_0": {
+                        "_tableType": "TrueSKYCalendarDay",
+                        "sqFile": "data\\public\\truesky\\Sequences\\Default.sq"
+                    }
+                }
+            },
+            "4": {
+                "_tableType": "TrueSKYCalendarMonth",
+                "days": {
+                    "_tableType": "ObjContainer",
+                    "count": 1,
+                    "id": 1,
+                    "item_0": {
+                        "_tableType": "TrueSKYCalendarDay",
+                        "sqFile": "data\\public\\truesky\\Sequences\\Default.sq"
+                    }
+                }
+            },
+            "5": {
+                "_tableType": "TrueSKYCalendarMonth",
+                "days": {
+                    "_tableType": "ObjContainer",
+                    "count": 1,
+                    "id": 1,
+                    "item_0": {
+                        "_tableType": "TrueSKYCalendarDay",
+                        "sqFile": "data\\public\\truesky\\Sequences\\Default.sq"
+                    }
+                }
+            },
+            "6": {
+                "_tableType": "TrueSKYCalendarMonth",
+                "days": {
+                    "_tableType": "ObjContainer",
+                    "count": 1,
+                    "id": 1,
+                    "item_0": {
+                        "_tableType": "TrueSKYCalendarDay",
+                        "sqFile": "data\\public\\truesky\\Sequences\\Default.sq"
+                    }
+                }
+            },
+            "7": {
+                "_tableType": "TrueSKYCalendarMonth",
+                "days": {
+                    "_tableType": "ObjContainer",
+                    "count": 1,
+                    "id": 1,
+                    "item_0": {
+                        "_tableType": "TrueSKYCalendarDay",
+                        "sqFile": "data\\public\\truesky\\Sequences\\Default.sq"
+                    }
+                }
+            },
+            "8": {
+                "_tableType": "TrueSKYCalendarMonth",
+                "days": {
+                    "_tableType": "ObjContainer",
+                    "count": 1,
+                    "id": 1,
+                    "item_0": {
+                        "_tableType": "TrueSKYCalendarDay",
+                        "sqFile": "data\\public\\truesky\\Sequences\\Default.sq"
+                    }
+                }
+            },
+            "9": {
+                "_tableType": "TrueSKYCalendarMonth",
+                "days": {
+                    "_tableType": "ObjContainer",
+                    "count": 1,
+                    "id": 1,
+                    "item_0": {
+                        "_tableType": "TrueSKYCalendarDay",
+                        "sqFile": "data\\public\\truesky\\Sequences\\Default.sq"
+                    }
+                }
+            },
+            "10": {
+                "_tableType": "TrueSKYCalendarMonth",
+                "days": {
+                    "_tableType": "ObjContainer",
+                    "count": 1,
+                    "id": 1,
+                    "item_0": {
+                        "_tableType": "TrueSKYCalendarDay",
+                        "sqFile": "data\\public\\truesky\\Sequences\\Default.sq"
+                    }
+                }
+            },
+            "11": {
+                "_tableType": "TrueSKYCalendarMonth",
+                "days": {
+                    "_tableType": "ObjContainer",
+                    "count": 1,
+                    "id": 1,
+                    "item_0": {
+                        "_tableType": "TrueSKYCalendarDay",
+                        "sqFile": "data\\public\\truesky\\Sequences\\Default.sq"
+                    }
+                }
+            },
+            "12": {
+                "_tableType": "TrueSKYCalendarMonth",
+                "days": {
+                    "_tableType": "ObjContainer",
+                    "count": 1,
+                    "id": 1,
+                    "item_0": {
+                        "_tableType": "TrueSKYCalendarDay",
+                        "sqFile": "data\\public\\truesky\\Sequences\\Default.sq"
+                    }
+                }
+            }
+        }
+    }
+}
