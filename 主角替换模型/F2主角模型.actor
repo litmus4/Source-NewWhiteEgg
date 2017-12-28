@@ -2,45 +2,55 @@
 DependModel=data\source\player\f2\部件\mdl\f2.mdl
 bReDress=1
 BindNum=0
+FaceDefIni=data\public\Face\F2\F2_009.ini
 
 [Part1]
 Have=1
-Mesh=data\source\player\f2\部件\f2_1007_head.mesh
-Mtl=data\source\player\f2\部件\f2_1007_head.mtl
+Mesh=data\source\player\f2\部件\f2_1004_head_hd.mesh
+Mtl=data\source\player\f2\部件\f2_1004_head_hd.jsoninspack
+Detail=0,0
 
 [Part2]
 Have=1
-Mesh=\data\source\player\F2\部件\F2_2201_body.mesh
-Mtl=\data\source\player\F2\部件\F2_2201_body.mtl
+Mesh=data\source\player\f2\部件\f2_3007b_body_hd.mesh
+Mtl=data\source\player\f2\部件\f2_3007b_body_hd.jsoninspack
+Detail=-1,3
 
 [Part3]
 Have=1
-Mesh=data\source\player\f2\部件\f2_2201_leg.mesh
-Mtl=data\source\player\f2\部件\f2_2201_leg.mtl
+Mesh=data\source\player\f2\部件\f2_3007b_leg_hd.mesh
+Mtl=data\source\player\f2\部件\f2_3007b_leg_hd.jsoninspack
+Detail=-1,3
 
 [Part4]
 Have=1
-Mesh=data\source\player\f2\部件\f2_2201_hand.mesh
-Mtl=data\source\player\f2\部件\f2_2201_hand.mtl
+Mesh=data\source\player\f2\部件\f2_3007b_hand_hd.mesh
+Mtl=data\source\player\f2\部件\f2_3007b_hand_hd.jsoninspack
+Detail=-1,3
 
 [Part5]
 Have=1
-Mesh=data\source\player\f2\部件\f2_2201_belt.mesh
-Mtl=data\source\player\f2\部件\f2_2201_belt.mtl
+Mesh=data\source\player\f2\部件\f2_3007b_belt_hd.mesh
+Mtl=data\source\player\f2\部件\f2_3007b_belt_hd.jsoninspack
+Detail=-1,3
 
 [Part6]
 Have=0
 
 [Part7]
-Have=0
+Have=1
+Mesh=data\source\player\f2\部件\f2_1008_bang_hd.mesh
+Mtl=data\source\player\f2\部件\f2_1008_bang_hd.inspack
+Detail=0,0
 
 [Part8]
 Have=1
-Mesh=data\source\player\f2\部件\f2_1005_face.mesh
-Mtl=data\source\player\f2\部件\f2_1005_face.mtl
+Mesh=data\source\player\f2\部件\f2_new_face_hd.mesh
+Mtl=data\source\player\f2\部件\f2_new_face_hd.jsoninspack
+Detail=0,0
 
 [Part9]
-Have=1
+Have=0
 Mesh=data\source\player\f2\部件\f2_2201_hat.mesh
 Mtl=data\source\player\f2\部件\f2_2201_hat.mtl
 
