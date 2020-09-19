@@ -1,0 +1,233 @@
+{
+    "Info": {
+        "Version": 2,
+        "RefPath": "data\\material\\shader\\mtl_water\\mtl_water.jsondef"
+    },
+    "RenderState": {
+        "bOverWriteRS": 1,
+        "nRenderState": 0,
+        "AlphaRef": 128,
+        "AlphaRef2": 128,
+        "TwoSide": 0,
+        "BlendMode": 0,
+        "OITWorkflow": 0,
+        "OITOptimiseOption": 0,
+        "DistortionMode": 0
+    },
+    "Param": [
+        {
+            "Name": "泡沫贴图",
+            "Type": "Texture",
+            "Value": "data\\material\\shader\\mtl_water\\texture_water\\foam_msak_texture.dds"
+        },
+        {
+            "Name": "水波凹凸二",
+            "Type": "Texture",
+            "Value": "data\\material\\shader\\mtl_water\\texture_water\\waternormal2.tga"
+        },
+        {
+            "Name": "水波凹凸二（远景）",
+            "Type": "Texture",
+            "Value": "data\\material\\shader\\mtl_water\\texture_water\\waternormal2_faraway.tga"
+        },
+        {
+            "Name": "水波凹凸一",
+            "Type": "Texture",
+            "Value": "data\\material\\shader\\mtl_water\\texture_water\\waternormal2.tga"
+        },
+        {
+            "Name": "水波凹凸一（远景）",
+            "Type": "Texture",
+            "Value": "data\\material\\shader\\mtl_water\\texture_water\\waternormal2_faraway.tga"
+        },
+        {
+            "Name": "水颜色",
+            "Type": "Texture",
+            "Value": "data\\material\\shader\\mtl_water\\texture_water\\watercolor.tga"
+        },
+        {
+            "Name": "光照反射强度",
+            "Type": "Float",
+            "Value": 1.0
+        },
+        {
+            "Name": "海面法线重复",
+            "Type": "Float",
+            "Value": 0.3149999976158142
+        },
+        {
+            "Name": "海面法线重复Power",
+            "Type": "Float",
+            "Value": 1.7999999523162842
+        },
+        {
+            "Name": "泡沫边缘 ",
+            "Type": "Float",
+            "Value": 97.18000030517578
+        },
+        {
+            "Name": "泡沫边缘透明度",
+            "Type": "Float",
+            "Value": 24.360000610351564
+        },
+        {
+            "Name": "泡沫范围",
+            "Type": "Float",
+            "Value": 48.7400016784668
+        },
+        {
+            "Name": "泡沫扭曲",
+            "Type": "Float",
+            "Value": 0.10000000149011612
+        },
+        {
+            "Name": "泡沫移动速度",
+            "Type": "Float",
+            "Value": 0.30000001192092898
+        },
+        {
+            "Name": "泡沫重复",
+            "Type": "Float",
+            "Value": 2.890000104904175
+        },
+        {
+            "Name": "水波强度",
+            "Type": "Float",
+            "Value": 0.9836000204086304
+        },
+        {
+            "Name": "水面光滑度深度",
+            "Type": "Float",
+            "Value": 0.09269999712705612
+        },
+        {
+            "Name": "水深效果",
+            "Type": "Float",
+            "Value": 0.03099999949336052
+        },
+        {
+            "Name": "水雾",
+            "Type": "Float",
+            "Value": 0.05000000074505806
+        },
+        {
+            "Name": "透明度",
+            "Type": "Float",
+            "Value": 0.0
+        },
+        {
+            "Name": "折射强度",
+            "Type": "Float",
+            "Value": 0.18330000340938569
+        },
+        {
+            "Name": "折射强度(远处)",
+            "Type": "Float",
+            "Value": 0.019500000402331353
+        },
+        {
+            "Name": "水波流速二",
+            "Type": "Float2",
+            "Value": [
+                -0.05000000074505806,
+                0.019999999552965165
+            ]
+        },
+        {
+            "Name": "水波流速二（远景）",
+            "Type": "Float2",
+            "Value": [
+                -0.05000000074505806,
+                0.019999999552965165
+            ]
+        },
+        {
+            "Name": "水波流速一",
+            "Type": "Float2",
+            "Value": [
+                0.009999999776482582,
+                -0.009999999776482582
+            ]
+        },
+        {
+            "Name": "水波流速一（远景）",
+            "Type": "Float2",
+            "Value": [
+                0.009999999776482582,
+                -0.009999999776482582
+            ]
+        },
+        {
+            "Name": "水波密度二",
+            "Type": "Float2",
+            "Value": [
+                0.27000001072883608,
+                0.5799999833106995
+            ]
+        },
+        {
+            "Name": "水波密度二（远景）",
+            "Type": "Float2",
+            "Value": [
+                0.05000000074505806,
+                0.05000000074505806
+            ]
+        },
+        {
+            "Name": "水波密度一",
+            "Type": "Float2",
+            "Value": [
+                0.30000001192092898,
+                0.6000000238418579
+            ]
+        },
+        {
+            "Name": "水波密度一（远景）",
+            "Type": "Float2",
+            "Value": [
+                0.05000000074505806,
+                0.05000000074505806
+            ]
+        },
+        {
+            "Name": "泡沫边缘颜色",
+            "Type": "Color",
+            "Value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "Name": "泡沫颜色",
+            "Type": "Color",
+            "Value": [
+                0.38158199191093447,
+                0.5004199743270874,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "Name": "水面颜色",
+            "Type": "Color",
+            "Value": [
+                0.05882349982857704,
+                0.0784313976764679,
+                0.07450979948043823,
+                1.0
+            ]
+        },
+        {
+            "Name": "水雾颜色",
+            "Type": "Color",
+            "Value": [
+                0.00845350045710802,
+                0.024048199877142907,
+                0.05839629843831062,
+                1.0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+注意：
+1.Fbx导入动作必须要有带蒙皮的mesh节点，只有骨架暂时无法导出!
+
+使用编辑器导入的ani动作文件需要添加角色动画时可在动画列表中找到该ani文件放在对应体型的动作目录下
+MovieEditor\source\player\F1\动作\
+MovieEditor\source\player\F2\动作\
+MovieEditor\source\player\M1\动作\
+MovieEditor\source\player\M2\动作\
+将ani文件放入对应体型的目录后，在编辑器的资源浏览面板，点击刷新自定义资源之后，
+
+
+新增绑定姿势的标准模型，“MovieEditor\source\player\主角体型整合” 目录下可找到四体型的max文件。
+在3dsmax中编辑好动作，导出成fbx文件，再导入动作。
+
+导入动作帧率为30帧/s

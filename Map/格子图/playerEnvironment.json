@@ -1,0 +1,108 @@
+{
+    "applySetIndex": 0,
+    "set0": {
+        "playerLight": {
+            "diffuse": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "diffuseIntensity": 1.0,
+            "ambientColor": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ambientIntensity": 0.0,
+            "skyLightColor": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "skyLightIntensity": 0.0,
+            "commonLightColor": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "commonLightIntensity": 0.0
+        },
+        "cameraLight": {
+            "enable": 1,
+            "baseColor": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "intensity": 1.0,
+            "radius": 500.0,
+            "length": 1500.0,
+            "radialAttenuationStart": 0.0,
+            "axialAttenuationStart": 0.0
+        },
+        "envMapPlayer": {
+            "intensity": 1.0,
+            "saturation": 1.0
+        }
+    },
+    "set1": {
+        "playerLight": {
+            "diffuse": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "diffuseIntensity": 1.0,
+            "ambientColor": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "ambientIntensity": 0.0,
+            "skyLightColor": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "skyLightIntensity": 0.0,
+            "commonLightColor": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "commonLightIntensity": 0.0
+        },
+        "cameraLight": {
+            "enable": 1,
+            "baseColor": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "intensity": 1.0,
+            "radius": 500.0,
+            "length": 1500.0,
+            "radialAttenuationStart": 0.0,
+            "axialAttenuationStart": 0.0
+        },
+        "envMapPlayer": {
+            "intensity": 1.0,
+            "saturation": 1.0
+        }
+    },
+    "playerEnvProbe": {
+        "diffuseFile": "data/public/evn/player_env_d.dds",
+        "specularFile": "data/public/evn/player_env_s.dds",
+        "mixProportion": 0.0
+    }
+}

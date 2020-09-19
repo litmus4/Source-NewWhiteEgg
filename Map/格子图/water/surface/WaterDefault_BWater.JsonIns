@@ -1,0 +1,263 @@
+{
+    "Info": {
+        "Version": 2,
+        "RefPath": "data\\material\\shader\\mtl_water\\Mtl_Water.JsonDef"
+    },
+    "RenderState": {
+        "bOverWriteRS": 1,
+        "nRenderState": 0,
+        "AlphaRef": 128,
+        "BlendMode": 0,
+        "DistortionMode": 0
+    },
+   "Param": [
+        {
+            "Name": "水波凹凸一",
+            "RegisterName": "local181_Texture",
+            "Type": "Texture",
+            "Value": "data\\material\\shader\\mtl_water\\texture_water\\waternormal2.tga"
+        },
+        {
+            "Name": "水波凹凸二",
+            "RegisterName": "local190_Texture",
+            "Type": "Texture",
+            "Value": "data\\material\\shader\\mtl_water\\texture_water\\waternormal2.tga"
+        },
+        {
+            "Name": "水颜色",
+            "RegisterName": "local210_Texture",
+            "Type": "Texture",
+            "Value": "data\\material\\shader\\mtl_water\\texture_water\\watercolor.tga"
+        },
+        {
+            "Name": "泡沫贴图",
+            "RegisterName": "local244_Texture",
+            "Type": "Texture",
+            "Value": "data\\material\\shader\\mtl_water\\texture_water\\foam_msak_texture.dds"
+        },
+        {
+            "Name": "水波凹凸一（远景）",
+            "RegisterName": "local342_Texture",
+            "Type": "Texture",
+            "Value": "data\\material\\shader\\mtl_water\\texture_water\\waternormal2_faraway.tga"
+        },
+        {
+            "Name": "水波凹凸二（远景）",
+            "RegisterName": "local355_Texture",
+            "Type": "Texture",
+            "Value": "data\\material\\shader\\mtl_water\\texture_water\\waternormal2_faraway.tga"
+        },
+        {
+            "Name": "透明度",
+            "RegisterName": "local154_Prepare",
+            "Type": "Float",
+            "Value": 0.30000001192092898
+        },
+        {
+            "Name": "水深效果",
+            "RegisterName": "local164_Prepare",
+            "Type": "Float",
+            "Value": 0.05000000074505806
+        },
+        {
+            "Name": "水波强度",
+            "RegisterName": "local176_Prepare",
+            "Type": "Float",
+            "Value": 0.5
+        },
+        {
+            "Name": "折射强度",
+            "RegisterName": "local209_Prepare",
+            "Type": "Float",
+            "Value": 0.07999999821186066
+        },
+        {
+            "Name": "水雾",
+            "RegisterName": "local218_Prepare",
+            "Type": "Float",
+            "Value": 0.05000000074505806
+        },
+        {
+            "Name": "泡沫范围",
+            "RegisterName": "local238_Prepare",
+            "Type": "Float",
+            "Value": 48.7400016784668
+        },
+        {
+            "Name": "泡沫重复",
+            "RegisterName": "local247_Prepare",
+            "Type": "Float",
+            "Value": 2.890000104904175
+        },
+        {
+            "Name": "泡沫边缘 ",
+            "RegisterName": "local255_Prepare",
+            "Type": "Float",
+            "Value": 97.18000030517578
+        },
+        {
+            "Name": "泡沫扭曲",
+            "RegisterName": "local262_Prepare",
+            "Type": "Float",
+            "Value": 0.10000000149011612
+        },
+        {
+            "Name": "泡沫移动速度",
+            "RegisterName": "local266_Prepare",
+            "Type": "Float",
+            "Value": 0.30000001192092898
+        },
+        {
+            "Name": "泡沫边缘透明度",
+            "RegisterName": "local275_Prepare",
+            "Type": "Float",
+            "Value": 24.360000610351564
+        },
+        {
+            "Name": "海面法线重复Power",
+            "RegisterName": "local284_Prepare",
+            "Type": "Float",
+            "Value": 1.7999999523162842
+        },
+        {
+            "Name": "海面法线重复",
+            "RegisterName": "local289_Prepare",
+            "Type": "Float",
+            "Value": 0.3149999976158142
+        },
+        {
+            "Name": "水面光滑度深度",
+            "RegisterName": "local297_Prepare",
+            "Type": "Float",
+            "Value": 0.15000000596046449
+        },
+        {
+            "Name": "折射强度(远处)",
+            "RegisterName": "local369_Prepare",
+            "Type": "Float",
+            "Value": 0.009999999776482582
+        },
+        {
+            "Name": "光照反射强度",
+            "RegisterName": "local373_Prepare",
+            "Type": "Float",
+            "Value": 0.800000011920929
+        },
+        {
+            "Name": "水波流速一",
+            "RegisterName": "local177_Prepare",
+            "Type": "Float2",
+            "Value": [
+                0.009999999776482582,
+                -0.009999999776482582
+            ]
+        },
+        {
+            "Name": "水波密度一",
+            "RegisterName": "local179_Prepare",
+            "Type": "Float2",
+            "Value": [
+                0.30000001192092898,
+                0.6000000238418579
+            ]
+        },
+        {
+            "Name": "水波密度二",
+            "RegisterName": "local189_Prepare",
+            "Type": "Float2",
+            "Value": [
+                0.27000001072883608,
+                0.5799999833106995
+            ]
+        },
+        {
+            "Name": "水波流速二",
+            "RegisterName": "local196_Prepare",
+            "Type": "Float2",
+            "Value": [
+                -0.05000000074505806,
+                0.019999999552965165
+            ]
+        },
+        {
+            "Name": "水波流速一（远景）",
+            "RegisterName": "local343_Prepare",
+            "Type": "Float2",
+            "Value": [
+                0.009999999776482582,
+                -0.009999999776482582
+            ]
+        },
+        {
+            "Name": "水波密度一（远景）",
+            "RegisterName": "local349_Prepare",
+            "Type": "Float2",
+            "Value": [
+                0.05000000074505806,
+                0.05000000074505806
+            ]
+        },
+        {
+            "Name": "水波密度二（远景）",
+            "RegisterName": "local356_Prepare",
+            "Type": "Float2",
+            "Value": [
+                0.05000000074505806,
+                0.05000000074505806
+            ]
+        },
+        {
+            "Name": "水波流速二（远景）",
+            "RegisterName": "local358_Prepare",
+            "Type": "Float2",
+            "Value": [
+                -0.05000000074505806,
+                0.019999999552965165
+            ]
+        },
+        {
+            "Name": "水面颜色",
+            "RegisterName": "local152_Prepare",
+            "Type": "Color",
+            "Value": [
+                0.05882349982857704,
+                0.0784313976764679,
+                0.07450979948043823,
+                1.0
+            ]
+        },
+        {
+            "Name": "水雾颜色",
+            "RegisterName": "local222_Prepare",
+            "Type": "Color",
+            "Value": [
+                0.00845350045710802,
+                0.024048199877142907,
+                0.05839629843831062,
+                1.0
+            ]
+        },
+        {
+            "Name": "泡沫边缘颜色",
+            "RegisterName": "local257_Prepare",
+            "Type": "Color",
+            "Value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "Name": "泡沫颜色",
+            "RegisterName": "local259_Prepare",
+            "Type": "Color",
+            "Value": [
+                0.38158199191093447,
+                0.5004199743270874,
+                1.0,
+                1.0
+            ]
+        }
+    ]
+}

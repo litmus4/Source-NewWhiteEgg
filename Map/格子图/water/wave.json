@@ -1,0 +1,39 @@
+{
+    "FFTPro": [
+        {
+            "WaterType": 1,
+            "WindDir": [
+                0.800000011920929,
+                0.6000000238418579
+            ],
+            "WaveAmplitude": 0.3499999940395355,
+            "Length": 2000.0,
+            "WindSpeed": 200.0,
+            "WindDependency": 0.07000000029802323,
+            "ChoppyScale": 1.2999999523162842,
+            "TimeScale": 0.0007999999797903001,
+            "PerlinOctave": [
+                1.1200000047683716,
+                0.5899999737739563,
+                0.23000000417232514
+            ],
+            "PerlinAmplitude": [
+                35.0,
+                42.0,
+                57.0
+            ],
+            "PerlinGradient": [
+                1.399999976158142,
+                1.600000023841858,
+                1.600000023841858
+            ],
+            "PerlinBlendArea": [
+                800.0,
+                20000.0
+            ],
+            "PerlinSpeed": 0.03999999910593033,
+            "PerlinRelativeFFTDensity": 4.0
+        }
+    ],
+    "GSWave": []
+}

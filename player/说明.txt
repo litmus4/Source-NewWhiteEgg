@@ -1,0 +1,15 @@
+source/player/f1/F1-标准骨骼.FBX
+source/player/f2/F2-标准骨骼.FBX
+source/player/m1/M1-标准骨骼.FBX
+source/player/m2/M2-标准骨骼.FBX
+以上四个是从3d-max 2016导出的四体型标准骨骼。
+
+
+source/player/f1/f1.fbx
+source/player/f2/f2.fbx
+source/player/m1/m1.fbx
+source/player/m2/m2.fbx
+以上四个是标准骨骼在blender 2.79b中精简后，用于导出蒙皮的骨骼。
+导出蒙皮的过程中会根据体型加载对应体型的骨骼fbx文件，寻找同名骨骼，设置蒙皮信息。（如果使用上述fbx导出存在问题，可以自行从标准骨骼调整，替换上述4个fbx文件来导出蒙皮信息）
+目前只导出了bip骨架的蒙皮信息，部分物理骨骼并没有导出。
+

@@ -1,15 +1,66 @@
 {
     "environmentType": 0,
+    "lightSource": 0,
+    "enableDayNightCycle": 1,
+    "enableCovermap": 0,
+    "enableVXGI": 0,
+    "enableWssm": 1,
+    "enableWssmBlur": 0,
+    "wssmBlurBrightness": 0.10000000149011612,
+    "cameraRangeFromDist": 30000,
+    "cameraRangeToDist": 800000,
     "sunlight": {
         "dir": [
-            0.6561932563781738,
-            0.6450569033622742,
-            -0.391550749540329
+            0.20011258125305177,
+            0.8982094526290894,
+            -0.39137548208236697
         ],
         "diffuse": [
-            0.984210729598999,
-            0.9424984455108643,
-            0.836871862411499,
+            0.9839684963226318,
+            0.9549772143363953,
+            0.8785989880561829,
+            1.0
+        ],
+        "specular": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "diffuseIntensity": 1.0,
+        "specularIntensity": 1.0,
+        "ambientColor": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+        ],
+        "skyLightColor": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+        ],
+        "commonLightColor": [
+            0.5,
+            0.5,
+            0.5,
+            1.0
+        ],
+        "ambientIntensity": 1.0,
+        "skyLightIntensity": 1.0,
+        "commonLightIntensity": 1.0
+    },
+    "moonlight": {
+        "dir": [
+            -0.20011258125305177,
+            -0.8982094526290894,
+            0.39137548208236697
+        ],
+        "diffuse": [
+            1.0,
+            1.0,
+            1.0,
             1.0
         ],
         "specular": [
@@ -21,34 +72,9 @@
         "diffuseIntensity": 1.0,
         "specularIntensity": 1.0
     },
-    "playerLight": {
-        "diffuse": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-        ],
-        "diffuseIntensity": 1.0
-    },
-    "cameraLight": {
-        "enable": 1,
-        "baseColor": [
-            1.0,
-            1.0,
-            1.0,
-            1.0
-        ],
-        "intensity": 1.0,
-        "radius": 500.0,
-        "length": 1500.0,
-        "radialAttenuationStart": 0.0,
-        "axialAttenuationStart": 0.0
-    },
     "envMap": {
         "intensity": 1.0,
-        "saturation": 1.0,
-        "playerIntensity": 1.0,
-        "playerSaturation": 1.0
+        "saturation": 1.0
     },
     "speedTreeEnv": {
         "lodLevelOption": 0,
@@ -123,7 +149,64 @@
         }
     },
     "globalEnvironmentSphere": {
-        "savefileSpecular": "data\\buttest2\\格子图\\env_probe\\skybox_s.dds",
-        "savefileDiffuse": "data\\buttest2\\格子图\\env_probe\\skybox_d.dds"
+        "savefileSpecular": "data\\source\\maps\\格子图\\env_probe\\skybox_s.dds",
+        "savefileDiffuse": "data\\source\\maps\\格子图\\env_probe\\skybox_d.dds",
+        "customAtmoBottom": 0,
+        "atmoBottomColorStartY": 0.20000000298023225,
+        "atmoBottomColorLength": 0.30000001192092898,
+        "atmoBottomColor": [
+            0.48314639925956728,
+            0.48314639925956728,
+            0.48314639925956728,
+            1.0
+        ],
+        "dynamic": 1
+    },
+    "dayNightCycle": {
+        "CurrentDate": [
+            2000.0,
+            1.0,
+            1.0
+        ],
+        "Latitude": 0.0,
+        "Longitude": 0.0,
+        "time": 0.0,
+        "Timezone": 1.0,
+        "StarTrailsEnable": 0,
+        "Height": 0.0
+    },
+    "heightFog": {
+        "enable": 0,
+        "fogDensity": 0.019999999552965165,
+        "fogHeightFalloff": 0.20000000298023225,
+        "fogOpacity": 0.30000001192092898,
+        "fogStartDistance": 0.0,
+        "fogCutoffDistance": 0.0,
+        "fogHeight": 30000.0,
+        "directionalInscatteringExponent": 4.0,
+        "directionalInscatteringStartDistance": 10000.0,
+        "fogColor": [
+            0.4699999988079071,
+            0.6380000114440918,
+            1.0,
+            1.0
+        ],
+        "directionalInscatteringColor": [
+            0.25,
+            0.25,
+            0.125,
+            1.0
+        ]
+    },
+    "distanceFog": {
+        "enable": 0,
+        "fogColor": [
+            0.0,
+            0.0,
+            0.0,
+            1.0
+        ],
+        "fogStartDistance": 0.0,
+        "fogEndDistance": 30000.0
     }
 }

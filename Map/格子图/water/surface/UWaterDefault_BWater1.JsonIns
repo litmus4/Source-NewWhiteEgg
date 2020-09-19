@@ -1,0 +1,92 @@
+{
+    "Info": {
+        "Version": 2,
+        "RefPath": "data\\material\\shader\\mtl_water\\Mtl_UnderWater.def"
+    },
+    "RenderState": {
+        "bOverWriteRS": 1,
+        "nRenderState": 0,
+        "AlphaRef": 128,
+        "BlendMode": 0,
+        "DistortionMode": 0
+    },
+    "Param": [
+        {
+            "Name": "水波凹凸一",
+            "RegisterName": "local181_Texture",
+            "Type": "Texture",
+            "Value": "data\\material\\shader\\mtl_water\\texture_water\\waternormal2.tga"
+        },
+        {
+            "Name": "水波凹凸二",
+            "RegisterName": "local190_Texture",
+            "Type": "Texture",
+            "Value": "data\\material\\shader\\mtl_water\\texture_water\\waternormal2.tga"
+        },
+        {
+            "Name": "水面光滑度",
+            "RegisterName": "local153_Prepare",
+            "Type": "Float",
+            "Value": 0.10000000149011612
+        },
+        {
+            "Name": "水波强度",
+            "RegisterName": "local176_Prepare",
+            "Type": "Float",
+            "Value": 0.5
+        },
+        {
+            "Name": "折射强度",
+            "RegisterName": "local209_Prepare",
+            "Type": "Float",
+            "Value": 0.08500000089406967
+        },
+        {
+            "Name": "水波流速一",
+            "RegisterName": "local177_Prepare",
+            "Type": "Float2",
+            "Value": [
+                0.009999999776482582,
+                -0.009999999776482582
+            ]
+        },
+        {
+            "Name": "水波密度一",
+            "RegisterName": "local179_Prepare",
+            "Type": "Float2",
+            "Value": [
+                0.30000001192092898,
+                0.6000000238418579
+            ]
+        },
+        {
+            "Name": "水波密度二",
+            "RegisterName": "local189_Prepare",
+            "Type": "Float2",
+            "Value": [
+                0.27000001072883608,
+                0.5799999833106995
+            ]
+        },
+        {
+            "Name": "水波流速二",
+            "RegisterName": "local196_Prepare",
+            "Type": "Float2",
+            "Value": [
+                -0.05000000074505806,
+                0.019999999552965165
+            ]
+        },
+        {
+            "Name": "水面颜色",
+            "RegisterName": "local152_Prepare",
+            "Type": "Color",
+            "Value": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ]
+        }
+    ]
+}

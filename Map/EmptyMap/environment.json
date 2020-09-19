@@ -121,9 +121,5 @@
             "lensflareDescDummyLenSize": 0.009999999776482582,
             "lensflareList": {}
         }
-    },
-    "globalEnvironmentSphere": {
-        "savefileSpecular": "data\\buttest2\\emptymap\\env_probe\\skybox_s.dds",
-        "savefileDiffuse": "data\\buttest2\\emptymap\\env_probe\\skybox_d.dds"
     }
 }

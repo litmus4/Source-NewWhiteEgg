@@ -1,0 +1,2313 @@
+{
+    "ReferNode": {
+        "1000_1000": {
+            "GSInfo": 0,
+            "BlockData": [
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 240,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 241,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 224,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 225,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 242,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 243,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 226,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 227,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 208,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 209,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 192,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 193,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 210,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 211,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 194,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 195,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 244,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 245,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 228,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 229,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 246,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 247,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 230,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 231,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 212,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 213,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 196,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 197,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 214,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 215,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 198,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 199,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 176,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 177,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 160,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 161,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 178,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 179,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 162,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 163,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 144,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 145,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 128,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 129,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 146,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 147,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 130,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 131,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 180,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 181,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 164,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 165,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 182,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 183,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 166,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 167,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 148,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 149,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 132,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 133,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 150,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 151,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 134,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 135,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 248,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 249,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 232,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 233,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 250,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 251,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 234,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 235,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 216,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 217,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 200,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 201,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 218,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 219,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 202,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 203,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 252,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 253,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 236,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 237,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 254,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 255,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 238,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 239,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 220,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 221,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 204,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 205,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 222,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 223,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 206,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 207,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 184,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 185,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 168,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 169,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 186,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 187,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 170,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 171,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 152,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 153,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 136,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 137,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 154,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 155,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 138,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 139,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 188,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 189,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 172,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 173,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 190,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 191,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 174,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 175,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 156,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 157,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 140,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 141,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 158,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 159,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 142,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 143,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 112,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 113,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 96,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 97,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 114,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 115,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 98,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 99,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 80,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 81,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 64,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 65,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 82,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 83,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 66,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 67,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 116,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 117,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 100,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 101,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 118,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 119,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 102,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 103,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 84,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 85,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 68,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 69,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 86,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 87,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 70,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 71,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 48,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 49,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 32,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 33,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 50,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 51,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 34,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 35,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 16,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 17,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 0,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 1,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 18,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 19,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 2,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 3,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 52,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 53,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 36,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 37,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 54,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 55,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 38,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 39,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 20,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 21,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 4,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 5,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 22,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 23,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 6,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 7,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 120,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 121,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 104,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 105,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 122,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 123,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 106,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 107,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 88,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 89,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 72,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 73,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 90,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 91,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 74,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 75,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 124,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 125,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 108,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 109,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 126,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 127,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 110,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 111,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 92,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 93,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 76,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 77,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 94,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 95,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 78,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 79,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 56,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 57,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 40,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 41,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 58,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 59,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 42,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 43,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 24,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 25,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 8,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 9,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 26,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 27,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 10,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 11,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 60,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 61,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 44,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 45,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 62,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 63,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 46,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 47,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 28,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 29,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 12,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 13,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 30,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 31,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 14,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                },
+                {
+                    "WaterUniqueCount": 1,
+                    "LeafNodeIndex": 15,
+                    "WUnique_0": {
+                        "WaterSurfaceID": 0,
+                        "HasNorMask": 1,
+                        "HasHoleMask": 0
+                    }
+                }
+            ]
+        }
+    }
+}

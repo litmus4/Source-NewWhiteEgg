@@ -1,0 +1,84 @@
+{
+    "__internal_type": "JXSubSceneInfo",
+    "worldObjects": {
+        "{deb04614-c99b-4e45-9666-b5b4d5d13235}": {
+            "comBasic": {
+                "actorBoundBoxMax": [
+                    51600.0,
+                    -500.0,
+                    51600.0
+                ],
+                "actorBoundBoxMin": [
+                    -400.0,
+                    -510.0,
+                    -400.0
+                ],
+                "actorLocalMatrix": [
+                    13.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    13.0,
+                    0.0,
+                    25600.0,
+                    -500.0,
+                    25600.0,
+                    1.0
+                ],
+                "uuid": "{deb04614-c99b-4e45-9666-b5b4d5d13235}"
+            },
+            "comBlockWater": {
+                "BlockMaskPath": "",
+                "WaterName": "water_0",
+                "WaterNewMaterialPath": "data\\source\\maps\\格子图\\water\\surface\\WaterDefault_BWater1.JsonIns",
+                "WaterNewUWMaterialPath": "data\\source\\maps\\格子图\\water\\surface\\UWaterDefault_BWater1.JsonIns",
+                "WaterVersion": 1,
+                "_operator_WaterNewMaterialPath": 4
+            },
+            "comEditor": {
+                "hostLayer": "ref.{412cb6bd-cd67-4c0c-97a5-1aaa07f24792}",
+                "templateFile": "water/newblockwaterwithouticon.json"
+            },
+            "comPolygon": {
+                "Vertices": [
+                    [
+                        2000.0,
+                        0.0,
+                        2000.0
+                    ],
+                    [
+                        -2000.0,
+                        0.0,
+                        2000.0
+                    ],
+                    [
+                        -2000.0,
+                        0.0,
+                        -2000.0
+                    ],
+                    [
+                        2000.0,
+                        0.0,
+                        -2000.0
+                    ]
+                ]
+            },
+            "comWaterWaveData": {
+                "PerlinBlendArea": [
+                    800.0,
+                    20000.0
+                ],
+                "fftWindDir": [
+                    0.800000011920929,
+                    0.6000000238418579
+                ]
+            }
+        }
+    }
+}
