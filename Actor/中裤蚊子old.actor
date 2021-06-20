@@ -2,8 +2,8 @@
 DependModel=data\source\player\m2\部件\mdl\m2.mdl
 FaceDefIni=
 bReDress=1
-PartNum=11
 BindNum=0
+PartNum=11
 
 [Part1]
 Have=1
@@ -19,9 +19,9 @@ Detail=0,0
 
 [Part3]
 Have=1
-Mesh=data\source\player\m2\部件\m2_3077_leg.mesh
-Mtl=data\source\player\m2\部件\m2_3077_leg.jsoninspack
-Detail=0,1
+Mesh=data\source\player\m2\部件\m2_4019_leg.mesh
+Mtl=data\source\player\m2\部件\m2_4019_leg.mtl
+Detail=0,0
 
 [Part4]
 Have=1
@@ -30,7 +30,10 @@ Mtl=data\source\player\m2\部件\m2_1000_hand.mtl
 Detail=0,0
 
 [Part5]
-Have=0
+Have=1
+Mesh=data\source\player\m2\部件\m2_1000_belt.mesh
+Mtl=data\source\player\m2\部件\m2_1000_belt.mtl
+Detail=0,0
 
 [Part6]
 Have=1

@@ -13,15 +13,12 @@ Detail=0,0
 
 [Part2]
 Have=1
-Mesh=data\source\player\m2\部件\m2_1000_body.mesh
-Mtl=data\source\player\m2\部件\m2_1000_body.mtl
-Detail=0,0
+Mesh=data\source\player\m2\部件\m2_5165_body.mesh
+Mtl=data\source\player\m2\部件\m2_5165_body.jsoninspack
+Detail=0,1
 
 [Part3]
-Have=1
-Mesh=data\source\player\m2\部件\m2_3077_leg.mesh
-Mtl=data\source\player\m2\部件\m2_3077_leg.jsoninspack
-Detail=0,1
+Have=0
 
 [Part4]
 Have=1
@@ -30,7 +27,10 @@ Mtl=data\source\player\m2\部件\m2_1000_hand.mtl
 Detail=0,0
 
 [Part5]
-Have=0
+Have=1
+Mesh=data\source\player\m2\部件\m2_1000_belt.mesh
+Mtl=data\source\player\m2\部件\m2_1000_belt.mtl
+Detail=0,0
 
 [Part6]
 Have=1
