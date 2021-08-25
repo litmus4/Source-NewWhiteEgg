@@ -2,7 +2,7 @@
 DependModel=data\source\player\m2\部件\mdl\m2.mdl
 FaceDefIni=
 bReDress=1
-PartNum=11
+PartNum=13
 BindNum=0
 
 [Part1]
@@ -13,26 +13,26 @@ Detail=0,0
 
 [Part2]
 Have=1
-Mesh=data\source\player\m2\部件\m2_2405_body.mesh
-Mtl=data\source\player\m2\部件\m2_2405_body.jsoninspack
-Detail=0,2
+Mesh=data\source\player\m2\部件\m2_2405_body_hd.mesh
+Mtl=data\source\player\m2\部件\m2_2405_body_hd.jsoninspack
+Detail=-1,0
 
 [Part3]
 Have=1
-Mesh=data\source\player\m2\部件\m2_2405_leg.mesh
-Mtl=data\source\player\m2\部件\m2_2405_leg.jsoninspack
+Mesh=data\source\player\m2\部件\m2_2405_leg_hd.mesh
+Mtl=data\source\player\m2\部件\m2_2405_leg_hd.jsoninspack
 Detail=0,0
 
 [Part4]
 Have=1
-Mesh=data\source\player\m2\部件\m2_2405_hand.mesh
-Mtl=data\source\player\m2\部件\m2_2405_hand.jsoninspack
+Mesh=data\source\player\m2\部件\m2_2405_hand_hd.mesh
+Mtl=data\source\player\m2\部件\m2_2405_hand_hd.jsoninspack
 Detail=0,0
 
 [Part5]
 Have=1
-Mesh=data\source\player\m2\部件\m2_2405_belt.mesh
-Mtl=data\source\player\m2\部件\m2_2405_belt.jsoninspack
+Mesh=data\source\player\m2\部件\m2_2405_belt_hd.mesh
+Mtl=data\source\player\m2\部件\m2_2405_belt_hd.jsoninspack
 Detail=0,0
 
 [Part6]
@@ -54,5 +54,11 @@ Have=0
 Have=0
 
 [Part11]
+Have=0
+
+[Part12]
+Have=0
+
+[Part13]
 Have=0
 

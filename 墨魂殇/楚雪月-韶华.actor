@@ -2,7 +2,7 @@
 DependModel=data\source\player\f2\部件\mdl\f2.mdl
 FaceDefIni=..\MovieEditor\source\FaceData\Face_StandardFemale_20210605-231051-韶华-楚雪月.ini
 bReDress=1
-PartNum=11
+PartNum=13
 BindNum=0
 
 [Part1]
@@ -13,26 +13,26 @@ Detail=0,0
 
 [Part2]
 Have=1
-Mesh=data\source\player\f2\部件\f2_2509_body.mesh
-Mtl=data\source\player\f2\部件\f2_2509_body.jsoninspack
-Detail=0,1
+Mesh=data\source\player\f2\部件\f2_2509_body_hd.mesh
+Mtl=data\source\player\f2\部件\f2_2509_body_hd.jsoninspack
+Detail=0,0
 
 [Part3]
 Have=1
-Mesh=data\source\player\f2\部件\f2_2509_leg.mesh
-Mtl=data\source\player\f2\部件\f2_2509_leg.jsoninspack
+Mesh=data\source\player\f2\部件\f2_2509_leg_hd.mesh
+Mtl=data\source\player\f2\部件\f2_2509_leg_hd.jsoninspack
 Detail=0,0
 
 [Part4]
 Have=1
-Mesh=data\source\player\f2\部件\f2_2509_hand.mesh
-Mtl=data\source\player\f2\部件\f2_2509_hand.jsoninspack
+Mesh=data\source\player\f2\部件\f2_2509_hand_hd.mesh
+Mtl=data\source\player\f2\部件\f2_2509_hand_hd.jsoninspack
 Detail=0,0
 
 [Part5]
 Have=1
-Mesh=data\source\player\f2\部件\f2_2509_belt.mesh
-Mtl=data\source\player\f2\部件\f2_2509_belt.jsoninspack
+Mesh=data\source\player\f2\部件\f2_2509_belt_hd.mesh
+Mtl=data\source\player\f2\部件\f2_2509_belt_hd.jsoninspack
 Detail=0,0
 
 [Part6]
@@ -43,19 +43,25 @@ Have=0
 
 [Part8]
 Have=1
-Mesh=data\source\player\f2\部件\f2_new_face.mesh
-Mtl=data\source\player\f2\部件\f2_new_face.jsoninspack
+Mesh=data\source\player\f2\部件\f2_new_face_hd.mesh
+Mtl=data\source\player\f2\部件\f2_new_face_hd.jsoninspack
 Detail=0,0
 
 [Part9]
-Have=1
-Mesh=data\source\player\f2\部件\f2_2509_hat.mesh
-Mtl=data\source\player\f2\部件\f2_2509_hat.jsoninspack
+Have=0
+Mesh=data\source\player\f2\部件\f2_2509_hat_hd.mesh
+Mtl=data\source\player\f2\部件\f2_2509_hat_hd.jsoninspack
 Detail=0,0
 
 [Part10]
 Have=0
 
 [Part11]
+Have=0
+
+[Part12]
+Have=0
+
+[Part13]
 Have=0
 
