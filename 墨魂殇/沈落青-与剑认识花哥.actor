@@ -1,38 +1,38 @@
 [ROOT]
 DependModel=data\source\player\m2\部件\mdl\m2.mdl
-FaceDefIni=..\MovieEditor\source\FaceData\Face_StandardMale_20201107-211551-与剑认识花哥-沈落青.ini
+FaceDefIni=..\MovieEditor\source\FaceData\Face_StandardMale_20220810-200051-与剑认识花哥2-沈落青.ini
 bReDress=1
 PartNum=13
 BindNum=0
 
 [Part1]
 Have=1
-Mesh=data\source\player\m2\部件\m2_0000_head.mesh
-Mtl=data\source\player\m2\部件\m2_0000_head.jsoninspack
+Mesh=data\source\player\m2\部件\m2_1001_head_hd.mesh
+Mtl=data\source\player\m2\部件\m2_1001_head_hd.jsoninspack
 Detail=0,0
 
 [Part2]
 Have=1
-Mesh=data\source\player\m2\部件\m2_2221_body_hd.mesh
-Mtl=data\source\player\m2\部件\m2_2221_body_hd.jsoninspack
-Detail=-1,0
+Mesh=data\source\player\m2\部件\m2_2216_body_hd.mesh
+Mtl=data\source\player\m2\部件\m2_2216_body_hd.jsoninspack
+Detail=-1,2
 
 [Part3]
 Have=1
-Mesh=data\source\player\m2\部件\m2_2221_leg_hd.mesh
-Mtl=data\source\player\m2\部件\m2_2221_leg_hd.jsoninspack
+Mesh=data\source\player\m2\部件\m2_3116_leg_hd.mesh
+Mtl=data\source\player\m2\部件\m2_3116_leg_hd.jsoninspack
 Detail=0,0
 
 [Part4]
 Have=1
-Mesh=data\source\player\m2\部件\m2_2221_hand_hd.mesh
-Mtl=data\source\player\m2\部件\m2_2221_hand_hd.jsoninspack
+Mesh=data\source\player\m2\部件\m2_3116_hand_hd.mesh
+Mtl=data\source\player\m2\部件\m2_3116_hand_hd.jsoninspack
 Detail=0,0
 
 [Part5]
 Have=1
-Mesh=data\source\player\m2\部件\m2_2221_belt_hd.mesh
-Mtl=data\source\player\m2\部件\m2_2221_belt_hd.jsoninspack
+Mesh=data\source\player\m2\部件\m2_3116_belt_hd.mesh
+Mtl=data\source\player\m2\部件\m2_3116_belt_hd.jsoninspack
 Detail=0,0
 
 [Part6]
@@ -49,8 +49,8 @@ Detail=0,0
 
 [Part9]
 Have=1
-Mesh=data\source\player\m2\部件\m2_2221_hat_hd.mesh
-Mtl=data\source\player\m2\部件\m2_2221_hat_hd.jsoninspack
+Mesh=data\source\player\m2\部件\m2_3116_hat_hd.mesh
+Mtl=data\source\player\m2\部件\m2_3116_hat_hd.jsoninspack
 Detail=0,0
 
 [Part10]
