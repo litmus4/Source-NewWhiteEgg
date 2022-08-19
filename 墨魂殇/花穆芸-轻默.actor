@@ -2,7 +2,7 @@
 DependModel=data\source\player\f2\²¿¼þ\mdl\f2.mdl
 FaceDefIni=..\MovieEditor\source\FaceData\Face_StandardFemale_20201019-ÇáÄ¬-»¨ÄÂÜ¿.ini
 bReDress=1
-PartNum=13
+PartNum=14
 BindNum=0
 
 [Part1]
@@ -60,5 +60,8 @@ Have=0
 Have=0
 
 [Part13]
+Have=0
+
+[Part14]
 Have=0
 
