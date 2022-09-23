@@ -2,7 +2,7 @@
 DependModel=data\source\player\m2\²¿¼þ\mdl\m2.mdl
 FaceDefIni=
 bReDress=1
-PartNum=13
+PartNum=14
 BindNum=0
 
 [Part1]
@@ -66,5 +66,8 @@ Have=0
 Have=0
 
 [Part13]
+Have=0
+
+[Part14]
 Have=0
 
