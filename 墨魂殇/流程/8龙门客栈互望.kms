@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlotData MapId="23" MapPath="data\source\maps\龙门荒漠\龙门荒漠.jsonmap" MaxFrame="850" VERSION="2.0.0" CurElementsId="3" FrameRate="30">
+  <KPlotProperty EPT_Plot_EnableGameDOF="False" EPT_Plot_DisableGameBGMusic="False" EPT_Plot_EnableGameMusic="False" EPT_Plot_EnvConfig="" EPT_Plot_PlayerEnvConfig="" EPT_Plot_PostRenderConfig="" EPT_Plot_RCidx="" EPT_Plot_ResolutionX="1920" EPT_Plot_ResolutionY="1136" />
+  <Elements Id="0" ParentID="4294967295">
+    <KObject ObjectType="MOT_DIRECTOR" Name="MOT_DIRECTOR231" ResourceName="" TagName="">
+      <KProperty EPT_TEXT="导演01" EPT_RESOURCE_NAME="" EPT_Object_InitTrans="0.000,0.000,0.000,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="0.000,0.000,0.000,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="0" />
+    </KObject>
+  </Elements>
+  <Elements Id="1" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR233" ResourceName="..\movieeditor\source\墨魂殇\司徒小雨-与剑.actor" TagName="">
+      <KProperty EPT_TEXT="演员_司徒小雨-与剑_001" EPT_RESOURCE_NAME="..\movieeditor\source\墨魂殇\司徒小雨-与剑.actor" EPT_Object_InitTrans="69430.060,1061.825,57717.030,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="69430.060,1061.825,57717.030,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="1" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,0" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+  </Elements>
+  <Elements Id="2" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR235" ResourceName="..\movieeditor\source\墨魂殇\沈落青-与剑认识花哥.actor" TagName="">
+      <KProperty EPT_TEXT="演员_沈落青-与剑认识花哥_002" EPT_RESOURCE_NAME="..\movieeditor\source\墨魂殇\沈落青-与剑认识花哥.actor" EPT_Object_InitTrans="69378.950,1038.679,57575.370,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="69378.950,1038.679,57575.370,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="2" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,0" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+  </Elements>
+  <ListElementAniGroup ListElementAniGroupCount="3" ListElementAniGroupValue="0,1,2" />
+  <EditorData CameraPos="70336.410,1811.630,56898.470" CameraLookAt="69989.460,1371.955,57657.470" CameraRoll="0.000" />
+  <AllLayerInfo LayerCount="0" />
+</PlotData>

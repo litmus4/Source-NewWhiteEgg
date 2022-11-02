@@ -2,7 +2,7 @@
 DependModel=data\source\player\f2\部件\mdl\f2.mdl
 FaceDefIni=..\MovieEditor\source\FaceData\Face_StandardFemale_20201019-与剑-司徒小雨.ini
 bReDress=1
-PartNum=13
+PartNum=14
 BindNum=0
 
 [Part1]
@@ -63,5 +63,8 @@ Have=0
 Have=0
 
 [Part13]
+Have=0
+
+[Part14]
 Have=0
 
