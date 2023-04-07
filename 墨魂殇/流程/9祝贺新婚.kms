@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlotData MapId="151" MapPath="data\source\maps\洛阳_安史之乱\洛阳_安史之乱.jsonmap" MaxFrame="750" VERSION="2.0.0" CurElementsId="19" FrameRate="30">
+  <KPlotProperty EPT_Plot_EnableGameDOF="False" EPT_Plot_DisableGameBGMusic="False" EPT_Plot_EnableGameMusic="False" EPT_Plot_EnvConfig="" EPT_Plot_PlayerEnvConfig="" EPT_Plot_PostRenderConfig="" EPT_Plot_RCidx="" EPT_Plot_ResolutionX="1920" EPT_Plot_ResolutionY="1136" />
+  <Elements Id="0" ParentID="4294967295">
+    <KObject ObjectType="MOT_DIRECTOR" Name="MOT_DIRECTOR189" ResourceName="" TagName="">
+      <KProperty EPT_TEXT="导演01" EPT_RESOURCE_NAME="" EPT_Object_InitTrans="0.000,0.000,0.000,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="0.000,0.000,0.000,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="0" />
+    </KObject>
+  </Elements>
+  <Elements Id="1" ParentID="4294967295">
+    <KObject ObjectType="MOT_SCENENODE" Name="MOT_SCENENODE219" ResourceName="data\source\home\furniture\light\light1_1_1002_l.prefab" TagName="">
+      <KProperty EPT_SceneNode_SlotName="" EPT_TEXT="房屋_light1_1_1002_l_001" EPT_RESOURCE_NAME="data\source\home\furniture\light\light1_1_1002_l.prefab" EPT_Object_InitTrans="59267.110,766.099,97170.320,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="59267.110,766.099,97170.320,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="1" />
+    </KObject>
+    <KAction ActionType="EAT_KeyTrack" Name="EAT_KeyTrack62" ActionGuid="fca4d76e-562a-4991-a50f-b70a4bee56f9" ParentActionGuid="00000000-0000-0000-0000-000000000000">
+      <KProperty EPT_TEXT="Transform_000" EPT_ActionStartFrame="0" EPT_ActionLength="100" EPT_ActionIsDuration="True" EPT_ActionShowRepesent="True" EPT_ActionPlaySpeed="1" EPT_Action_Track_IsAutoDropGround="False" EPT_Action_Track_IsConstantSpeed="False" EPT_ActionTrackUpdateState="0" EPT_Action_Track_TransTimeLine="*#*#*" EPT_Action_Track_RotationTimeLine="*#*#*" EPT_Action_Track_ScalingTimeLine="*#*#*" EPT_Action_Track_EnableEditOffset="False" EPT_Action_Track_Offset="0.000,0.000,0.000,1.000,1.000,1.000,0.000,0.000,0.000" />
+    </KAction>
+  </Elements>
+  <Elements Id="2" ParentID="4294967295">
+    <KObject ObjectType="MOT_SCENENODE" Name="MOT_SCENENODE222" ResourceName="data\source\home\furniture\light\light1_1_1002_l.prefab" TagName="">
+      <KProperty EPT_SceneNode_SlotName="" EPT_TEXT="房屋_light1_1_1002_l_002" EPT_RESOURCE_NAME="data\source\home\furniture\light\light1_1_1002_l.prefab" EPT_Object_InitTrans="59253.200,764.000,96807.290,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="59253.200,764.000,96807.290,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="2" />
+    </KObject>
+  </Elements>
+  <Elements Id="3" ParentID="4294967295">
+    <KObject ObjectType="MOT_SCENENODE" Name="MOT_SCENENODE223" ResourceName="data\source\home\furniture\light\light1_1_1002_l.prefab" TagName="">
+      <KProperty EPT_SceneNode_SlotName="" EPT_TEXT="房屋_light1_1_1002_l_003" EPT_RESOURCE_NAME="data\source\home\furniture\light\light1_1_1002_l.prefab" EPT_Object_InitTrans="59277.730,765.872,96394.350,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="59277.730,765.872,96394.350,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="3" />
+    </KObject>
+  </Elements>
+  <Elements Id="4" ParentID="4294967295">
+    <KObject ObjectType="MOT_SCENENODE" Name="MOT_SCENENODE224" ResourceName="data\source\home\furniture\light\light1_1_1002_l.prefab" TagName="">
+      <KProperty EPT_SceneNode_SlotName="" EPT_TEXT="房屋_light1_1_1002_l_004" EPT_RESOURCE_NAME="data\source\home\furniture\light\light1_1_1002_l.prefab" EPT_Object_InitTrans="60706.360,764.014,97170.190,1.000,1.000,1.000,-3.142,0.000,0.000" EPT_Object_Trans="60706.360,764.014,97170.190,1.000,1.000,1.000,3.142,0.000,0.000" EPT_Object_ElementID="4" />
+    </KObject>
+  </Elements>
+  <Elements Id="5" ParentID="4294967295">
+    <KObject ObjectType="MOT_SCENENODE" Name="MOT_SCENENODE225" ResourceName="data\source\home\furniture\light\light1_1_1002_l.prefab" TagName="">
+      <KProperty EPT_SceneNode_SlotName="" EPT_TEXT="房屋_light1_1_1002_l_005" EPT_RESOURCE_NAME="data\source\home\furniture\light\light1_1_1002_l.prefab" EPT_Object_InitTrans="60703.240,786.180,96804.490,1.000,1.000,1.000,-3.142,0.000,0.000" EPT_Object_Trans="60703.240,786.180,96804.490,1.000,1.000,1.000,3.142,0.000,0.000" EPT_Object_ElementID="5" />
+    </KObject>
+  </Elements>
+  <Elements Id="6" ParentID="4294967295">
+    <KObject ObjectType="MOT_SCENENODE" Name="MOT_SCENENODE226" ResourceName="data\source\home\furniture\light\light1_1_1002_l.prefab" TagName="">
+      <KProperty EPT_SceneNode_SlotName="" EPT_TEXT="房屋_light1_1_1002_l_006" EPT_RESOURCE_NAME="data\source\home\furniture\light\light1_1_1002_l.prefab" EPT_Object_InitTrans="60714.680,779.901,96437.220,1.000,1.000,1.000,-3.142,0.000,0.000" EPT_Object_Trans="60714.680,779.901,96437.220,1.000,1.000,1.000,3.142,0.000,0.000" EPT_Object_ElementID="6" />
+    </KObject>
+  </Elements>
+  <Elements Id="7" ParentID="4294967295">
+    <KObject ObjectType="MOT_SCENENODE" Name="MOT_SCENENODE229" ResourceName="data\source\home\furniture\light\light1_1_1004_l.prefab" TagName="">
+      <KProperty EPT_SceneNode_SlotName="" EPT_TEXT="房屋_light1_1_1004_l_007" EPT_RESOURCE_NAME="data\source\home\furniture\light\light1_1_1004_l.prefab" EPT_Object_InitTrans="59684.080,764.000,97514.080,1.000,1.000,1.000,-1.571,0.000,0.000" EPT_Object_Trans="59684.080,764.000,97514.080,1.000,1.000,1.000,-1.571,0.000,0.000" EPT_Object_ElementID="7" />
+    </KObject>
+  </Elements>
+  <Elements Id="8" ParentID="4294967295">
+    <KObject ObjectType="MOT_SCENENODE" Name="MOT_SCENENODE230" ResourceName="data\source\home\furniture\light\light1_1_1004_l.prefab" TagName="">
+      <KProperty EPT_SceneNode_SlotName="" EPT_TEXT="房屋_light1_1_1004_l_008" EPT_RESOURCE_NAME="data\source\home\furniture\light\light1_1_1004_l.prefab" EPT_Object_InitTrans="60356.840,764.017,97511.050,1.000,1.000,1.000,-1.571,0.000,0.000" EPT_Object_Trans="60356.840,764.017,97511.050,1.000,1.000,1.000,-1.571,0.000,0.000" EPT_Object_ElementID="8" />
+    </KObject>
+  </Elements>
+  <Elements Id="9" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR232" ResourceName="..\movieeditor\source\墨魂殇\沈落青-与剑认识花哥-婚.actor" TagName="">
+      <KProperty EPT_TEXT="演员_沈落青-与剑认识花哥-婚_009" EPT_RESOURCE_NAME="..\movieeditor\source\墨魂殇\沈落青-与剑认识花哥-婚.actor" EPT_Object_InitTrans="59956.690,764.000,97338.520,1.000,1.000,1.000,-1.364,0.000,0.000" EPT_Object_Trans="59956.690,764.000,97338.520,1.000,1.000,1.000,-1.364,0.000,0.000" EPT_Object_ElementID="9" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,0" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+  </Elements>
+  <Elements Id="10" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR234" ResourceName="..\movieeditor\source\墨魂殇\司徒小雨-与剑-婚.actor" TagName="">
+      <KProperty EPT_TEXT="演员_司徒小雨-与剑-婚_010" EPT_RESOURCE_NAME="..\movieeditor\source\墨魂殇\司徒小雨-与剑-婚.actor" EPT_Object_InitTrans="60052.630,764.000,97334.580,1.000,1.000,1.000,1.423,0.000,0.000" EPT_Object_Trans="60052.630,764.000,97334.580,1.000,1.000,1.000,1.423,0.000,0.000" EPT_Object_ElementID="10" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,0" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+  </Elements>
+  <Elements Id="11" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR236" ResourceName="..\movieeditor\source\墨魂殇\司徒朔念-嬴政政.actor" TagName="">
+      <KProperty EPT_TEXT="演员_司徒朔念-嬴政政_011" EPT_RESOURCE_NAME="..\movieeditor\source\墨魂殇\司徒朔念-嬴政政.actor" EPT_Object_InitTrans="60000.400,764.000,97094.630,1.000,1.000,1.000,3.120,0.000,0.000" EPT_Object_Trans="60000.400,764.000,97094.630,1.000,1.000,1.000,3.120,0.000,0.000" EPT_Object_ElementID="11" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,0" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+  </Elements>
+  <Elements Id="12" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR238" ResourceName="..\movieeditor\source\墨魂殇\楚雪月-韶华.actor" TagName="">
+      <KProperty EPT_TEXT="演员_楚雪月-韶华_012" EPT_RESOURCE_NAME="..\movieeditor\source\墨魂殇\楚雪月-韶华.actor" EPT_Object_InitTrans="59706.300,764.000,96950.420,1.000,1.000,1.000,-2.425,0.000,0.000" EPT_Object_Trans="59706.300,764.000,96950.420,1.000,1.000,1.000,-2.425,0.000,0.000" EPT_Object_ElementID="12" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,0" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+  </Elements>
+  <Elements Id="13" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR240" ResourceName="..\movieeditor\source\墨魂殇\乔玉龙-星空.actor" TagName="">
+      <KProperty EPT_TEXT="演员_乔玉龙-星空_013" EPT_RESOURCE_NAME="..\movieeditor\source\墨魂殇\乔玉龙-星空.actor" EPT_Object_InitTrans="60055.020,764.000,96731.450,1.000,1.000,1.000,3.063,0.000,0.000" EPT_Object_Trans="60055.020,764.000,96731.450,1.000,1.000,1.000,3.063,0.000,0.000" EPT_Object_ElementID="13" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,0" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+  </Elements>
+  <Elements Id="14" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR242" ResourceName="..\movieeditor\source\墨魂殇\林飞-赵子龙.actor" TagName="">
+      <KProperty EPT_TEXT="演员_林飞-赵子龙_014" EPT_RESOURCE_NAME="..\movieeditor\source\墨魂殇\林飞-赵子龙.actor" EPT_Object_InitTrans="60415.080,764.124,96993.690,1.000,1.000,1.000,2.185,0.000,0.000" EPT_Object_Trans="60415.080,764.124,96993.690,1.000,1.000,1.000,2.185,0.000,0.000" EPT_Object_ElementID="14" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,0" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+  </Elements>
+  <Elements Id="15" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR244" ResourceName="..\movieeditor\source\墨魂殇\程天凤-程云丈.actor" TagName="">
+      <KProperty EPT_TEXT="演员_程天凤-程云丈_015" EPT_RESOURCE_NAME="..\movieeditor\source\墨魂殇\程天凤-程云丈.actor" EPT_Object_InitTrans="60348.230,768.394,96790.330,1.000,1.000,1.000,2.730,0.000,0.000" EPT_Object_Trans="60348.230,768.394,96790.330,1.000,1.000,1.000,2.730,0.000,0.000" EPT_Object_ElementID="15" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,0" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+  </Elements>
+  <Elements Id="16" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR246" ResourceName="..\movieeditor\source\墨魂殇\刘武-逍逸.actor" TagName="">
+      <KProperty EPT_TEXT="演员_刘武-逍逸_016" EPT_RESOURCE_NAME="..\movieeditor\source\墨魂殇\刘武-逍逸.actor" EPT_Object_InitTrans="60206.840,764.000,96816.300,1.000,1.000,1.000,2.864,0.000,0.000" EPT_Object_Trans="60206.840,764.000,96816.300,1.000,1.000,1.000,2.864,0.000,0.000" EPT_Object_ElementID="16" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,0" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+  </Elements>
+  <Elements Id="18" ParentID="4294967295">
+    <KObject ObjectType="MOT_POINTLIGHT" Name="MOT_POINTLIGHT250" ResourceName="data/editor/MovieModel/PointLight.pss" TagName="">
+      <KProperty EPT_TEXT="点光源_018" EPT_RESOURCE_NAME="data/editor/MovieModel/PointLight.pss" EPT_Object_InitTrans="60009.120,984.829,97606.020,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="60009.120,984.829,97606.020,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="18" EPT_PointLight_Radius="1000" EPT_PointLight_Color="Color [A=255, R=255, G=241, B=194]" EPT_PointLight_InnerRadius="0" EPT_Light_Intensity="5" EPT_Light_CastShadow="False" EPT_Light_IsDynamic="True" EPT_Light_Strength="1" EPT_Light_NearPlane="10" EPT_Light_DepthBias="0.005" EPT_Light_TextureSizeMode="2" EPT_Light_IntensityAtten="0.3" EPT_Light_Frequency="0" EPT_Light_FlashDarkness="0" EPT_Light_UseIESIntensity="False" EPT_Light_IESItensityScale="1" EPT_Light_TextureIES="" EPT_Light_SourceLength="0" EPT_Light_MaskLength="0" EPT_Light_MaskScale="1" EPT_Light_MaskOuterLength="0" EPT_Light_TextureMask="" EPT_Light_ForPlayer="False" EPT_Light_EnableForPlayer="True" EPT_Light_EnableForScene="True" EPT_Light_EnableSpecifiedLight="False" EPT_PointLight_EnableCustomAtten="False" EPT_PointLight_CotrolPointDis="0.000000,0.000000,0.000000,1.000000" EPT_PointLight_CotrolPointAtten="0.000000,0.000000,0.000000,0.000000" />
+    </KObject>
+  </Elements>
+  <ListElementAniGroup ListElementAniGroupCount="18" ListElementAniGroupValue="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18" />
+  <EditorData CameraPos="60315.660,1301.752,98071.590" CameraLookAt="56307.420,-3152.872,90841.290" CameraRoll="0.000" />
+  <AllLayerInfo LayerCount="0" />
+</PlotData>
