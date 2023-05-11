@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlotData MapId="238" MapPath="data\source\maps\青竹书院\青竹书院.jsonmap" MaxFrame="312" VERSION="2.0.0" CurElementsId="3" FrameRate="30">
+  <KPlotProperty EPT_Plot_EnableGameDOF="False" EPT_Plot_DisableGameBGMusic="False" EPT_Plot_EnableGameMusic="False" EPT_Plot_EnvConfig="" EPT_Plot_PlayerEnvConfig="" EPT_Plot_PostRenderConfig="" EPT_Plot_RCidx="" EPT_Plot_ResolutionX="1920" EPT_Plot_ResolutionY="1136" />
+  <Elements Id="0" ParentID="4294967295">
+    <KObject ObjectType="MOT_DIRECTOR" Name="MOT_DIRECTOR145" ResourceName="" TagName="">
+      <KProperty EPT_TEXT="导演01" EPT_RESOURCE_NAME="" EPT_Object_InitTrans="0.000,0.000,0.000,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="0.000,0.000,0.000,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="0" />
+    </KObject>
+  </Elements>
+  <Elements Id="1" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR158" ResourceName="data\source\other\hd特效\场景\pss\c_传送门_持续_01.pss" TagName="">
+      <KProperty EPT_TEXT="演员_c_传送门_持续_01_001" EPT_RESOURCE_NAME="data\source\other\hd特效\场景\pss\c_传送门_持续_01.pss" EPT_Object_InitTrans="29042.840,67.075,21271.810,0.398,0.398,0.398,-1.556,0.000,0.000" EPT_Object_Trans="29042.840,67.075,21271.810,0.398,0.398,0.398,-1.556,0.000,0.000" EPT_Object_ElementID="1" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,-1" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+  </Elements>
+  <Elements Id="2" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR160" ResourceName="..\movieeditor\source\actor\花滑蚊子.actor" TagName="">
+      <KProperty EPT_TEXT="演员_花滑蚊子_002" EPT_RESOURCE_NAME="..\movieeditor\source\actor\花滑蚊子.actor" EPT_Object_InitTrans="29238.430,129.968,21558.960,1.000,1.000,1.000,-1.581,0.000,0.000" EPT_Object_Trans="29238.430,129.968,21558.960,1.000,1.000,1.000,-1.581,0.000,0.000" EPT_Object_ElementID="2" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,0" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+  </Elements>
+  <ListElementAniGroup ListElementAniGroupCount="3" ListElementAniGroupValue="0,1,2" />
+  <EditorData CameraPos="29918.640,301.341,21537.790" CameraLookAt="26085.170,-235.561,21738.360" CameraRoll="0.000" />
+  <AllLayerInfo LayerCount="0" />
+</PlotData>
