@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlotData MapId="455" MapPath="data\source\maps\扬州_广陵邑_家园\扬州_广陵邑_家园.jsonmap" MaxFrame="3000" VERSION="2.0.0" CurElementsId="6" FrameRate="30">
+  <KPlotProperty EPT_Plot_EnableGameDOF="False" EPT_Plot_DisableGameBGMusic="False" EPT_Plot_EnableGameMusic="False" EPT_Plot_EnvConfig="" EPT_Plot_PlayerEnvConfig="" EPT_Plot_PostRenderConfig="" EPT_Plot_RCidx="" EPT_Plot_ResolutionX="1920" EPT_Plot_ResolutionY="1136" />
+  <Elements Id="0" ParentID="4294967295">
+    <KObject ObjectType="MOT_DIRECTOR" Name="MOT_DIRECTOR277" ResourceName="" TagName="">
+      <KProperty EPT_TEXT="导演01" EPT_RESOURCE_NAME="" EPT_Object_InitTrans="0.000,0.000,0.000,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="0.000,0.000,0.000,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="0" />
+    </KObject>
+  </Elements>
+  <Elements Id="1" ParentID="4294967295">
+    <KObject ObjectType="MOT_SCENENODE" Name="MOT_SCENENODE280" ResourceName="..\movieeditor\source\冰上中学记录\蓝图\homelandblueprinttotal_20230929-210010.blueprintx.scenenode" TagName="">
+      <KProperty EPT_SceneNode_SlotName="" EPT_TEXT="房屋_homelandblueprinttotal_20230929-210010.blueprintx_001" EPT_RESOURCE_NAME="..\movieeditor\source\冰上中学记录\蓝图\homelandblueprinttotal_20230929-210010.blueprintx.scenenode" EPT_Object_InitTrans="246064.900,2437.500,251247.100,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="246064.900,2437.500,251247.100,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="1" />
+    </KObject>
+  </Elements>
+  <Elements Id="2" ParentID="4294967295">
+    <KObject ObjectType="MOT_POINTLIGHT" Name="MOT_POINTLIGHT283" ResourceName="data/editor/MovieModel/PointLight.pss" TagName="">
+      <KProperty EPT_TEXT="点光源_002" EPT_RESOURCE_NAME="data/editor/MovieModel/PointLight.pss" EPT_Object_InitTrans="244012.100,3646.237,249388.900,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="244012.100,3646.237,249388.900,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="2" EPT_PointLight_Radius="1500" EPT_PointLight_Color="Color [A=255, R=255, G=255, B=255]" EPT_PointLight_InnerRadius="0" EPT_Light_Intensity="10" EPT_Light_CastShadow="False" EPT_Light_IsDynamic="True" EPT_Light_Strength="1" EPT_Light_NearPlane="10" EPT_Light_DepthBias="0.005" EPT_Light_TextureSizeMode="2" EPT_Light_IntensityAtten="1" EPT_Light_Frequency="0" EPT_Light_FlashDarkness="0" EPT_Light_UseIESIntensity="False" EPT_Light_IESItensityScale="1" EPT_Light_TextureIES="" EPT_Light_SourceLength="0" EPT_Light_MaskLength="0" EPT_Light_MaskScale="1" EPT_Light_MaskOuterLength="0" EPT_Light_TextureMask="" EPT_Light_ForPlayer="False" EPT_Light_EnableForPlayer="True" EPT_Light_EnableForScene="True" EPT_Light_EnableSpecifiedLight="False" EPT_PointLight_EnableCustomAtten="False" EPT_PointLight_CotrolPointDis="0.000000,0.000000,0.000000,1.000000" EPT_PointLight_CotrolPointAtten="0.000000,0.000000,0.000000,0.000000" />
+    </KObject>
+  </Elements>
+  <Elements Id="3" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR285" ResourceName="..\movieeditor\source\actor\紧裤蚊子hd.actor" TagName="">
+      <KProperty EPT_TEXT="演员_紧裤蚊子hd_003" EPT_RESOURCE_NAME="..\movieeditor\source\actor\紧裤蚊子hd.actor" EPT_Object_InitTrans="243996.900,3244.414,249558.200,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="243996.900,3244.414,249558.200,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="3" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,0" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+    <KAction ActionType="EAT_ActorAnimation" Name="EAT_ActorAnimation49" ActionGuid="c5178378-b5f1-45ea-841b-fe6e6dac253b" ParentActionGuid="00000000-0000-0000-0000-000000000000">
+      <KProperty EPT_TEXT="Animation_m2b01ty普通待机01_000" EPT_ActionStartFrame="0" EPT_ActionLength="77" EPT_ActionIsDuration="True" EPT_ActionShowRepesent="True" EPT_ActionPlaySpeed="1" EPT_Action_Animation_AniResource="data\source\player\m2\动作\m2b01ty普通待机01.ani" EPT_Action_Animation_AniLength="2560" EPT_Action_Animation_PlaySpeed="1" EPT_Action_Animation_StartPos="0" EPT_Action_Animation_PlayType="2" EPT_Action_Animation_TweenTime="200" EPT_Action_Animation_StopWhenActionFinish="True" />
+    </KAction>
+  </Elements>
+  <Elements Id="4" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR302" ResourceName="data\source\npc_source\wj_澡盆_001\模型\wj_澡盆_body_hd.mesh" TagName="">
+      <KProperty EPT_TEXT="演员_wj_澡盆_body_hd_004" EPT_RESOURCE_NAME="data\source\npc_source\wj_澡盆_001\模型\wj_澡盆_body_hd.mesh" EPT_Object_InitTrans="243881.300,3242.978,249783.800,1.000,1.000,1.000,1.571,0.000,0.000" EPT_Object_Trans="243881.300,3242.978,249783.800,1.000,1.000,1.000,1.571,0.000,0.000" EPT_Object_ElementID="4" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,-1" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+  </Elements>
+  <Elements Id="5" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR305" ResourceName="data\source\npc_source\wj_澡盆_001\模型\wj_澡盆_body_hd.mesh" TagName="">
+      <KProperty EPT_TEXT="演员_wj_澡盆_body_hd_005" EPT_RESOURCE_NAME="data\source\npc_source\wj_澡盆_001\模型\wj_澡盆_body_hd.mesh" EPT_Object_InitTrans="244095.400,3243.002,249783.500,1.000,1.000,1.000,1.571,0.000,0.000" EPT_Object_Trans="244095.400,3243.002,249783.500,1.000,1.000,1.000,1.571,0.000,0.000" EPT_Object_ElementID="5" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,-1" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+  </Elements>
+  <ListElementAniGroup ListElementAniGroupCount="6" ListElementAniGroupValue="0,1,2,3,4,5" />
+  <EditorData CameraPos="244185.700,3382.150,249534.100" CameraLookAt="241082.600,2007.194,250294.600" CameraRoll="0.000" />
+  <AllLayerInfo LayerCount="0" />
+</PlotData>
