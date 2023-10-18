@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlotData MapId="3" MapPath="data\source\maps\1024_蓝天白云\1024_蓝天白云.jsonmap" MaxFrame="700" VERSION="2.0.0" CurElementsId="3" FrameRate="30">
+  <KPlotProperty EPT_Plot_EnableGameDOF="False" EPT_Plot_DisableGameBGMusic="False" EPT_Plot_EnableGameMusic="False" EPT_Plot_EnvConfig="" EPT_Plot_PlayerEnvConfig="" EPT_Plot_PostRenderConfig="" EPT_Plot_RCidx="" EPT_Plot_ResolutionX="1920" EPT_Plot_ResolutionY="1136" />
+  <Elements Id="0" ParentID="4294967295">
+    <KObject ObjectType="MOT_DIRECTOR" Name="MOT_DIRECTOR27" ResourceName="" TagName="">
+      <KProperty EPT_TEXT="导演01" EPT_RESOURCE_NAME="" EPT_Object_InitTrans="0.000,0.000,0.000,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="0.000,0.000,0.000,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="0" />
+    </KObject>
+  </Elements>
+  <Elements Id="1" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR29" ResourceName="..\movieeditor\source\actor\紧裤蚊子hd.actor" TagName="">
+      <KProperty EPT_TEXT="演员_紧裤蚊子hd_001" EPT_RESOURCE_NAME="..\movieeditor\source\actor\紧裤蚊子hd.actor" EPT_Object_InitTrans="21429.780,-1966.246,23535.240,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="21429.780,-1966.246,23535.240,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="1" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,0" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+    <KAction ActionType="EAT_ActorAnimation" Name="EAT_ActorAnimation86" ActionGuid="b0d131d5-56bd-4a5e-b213-1d58efa8fc4a" ParentActionGuid="00000000-0000-0000-0000-000000000000">
+      <KProperty EPT_TEXT="Animation_m2b01ty普通待机01_000" EPT_ActionStartFrame="0" EPT_ActionLength="77" EPT_ActionIsDuration="True" EPT_ActionShowRepesent="True" EPT_ActionPlaySpeed="1" EPT_Action_Animation_AniResource="data\source\player\m2\动作\m2b01ty普通待机01.ani" EPT_Action_Animation_AniLength="2560" EPT_Action_Animation_PlaySpeed="1" EPT_Action_Animation_StartPos="0" EPT_Action_Animation_PlayType="2" EPT_Action_Animation_TweenTime="200" EPT_Action_Animation_StopWhenActionFinish="True" />
+    </KAction>
+    <KAction ActionType="EAT_NewFaceAnimation" Name="EAT_NewFaceAnimation88" ActionGuid="95d5ce65-f54e-4910-bed1-672a00f5ec26" ParentActionGuid="00000000-0000-0000-0000-000000000000">
+      <KProperty EPT_TEXT="FaceAni_m2_1011_face_smile_000" EPT_ActionStartFrame="0" EPT_ActionLength="32" EPT_ActionIsDuration="True" EPT_ActionShowRepesent="True" EPT_ActionPlaySpeed="1" EPT_Action_Animation_AniResource="data\source\player\m2\动作\face\m2_1011_face_smile.ani" EPT_Action_Animation_AniLength="1056" EPT_Action_Animation_PlaySpeed="1" EPT_Action_Animation_StartPos="0" EPT_Action_Animation_PlayType="2" EPT_Action_Animation_TweenTime="200" EPT_Action_Animation_StopWhenActionFinish="True" />
+    </KAction>
+  </Elements>
+  <Elements Id="2" ParentID="4294967295">
+    <KObject ObjectType="MOT_ACTOR" Name="MOT_ACTOR31" ResourceName="..\movieeditor\source\actor\紧裤蚊子ld.actor" TagName="">
+      <KProperty EPT_TEXT="演员_紧裤蚊子ld_002" EPT_RESOURCE_NAME="..\movieeditor\source\actor\紧裤蚊子ld.actor" EPT_Object_InitTrans="21494.950,-1966.246,23535.950,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_Trans="21494.950,-1966.246,23535.950,1.000,1.000,1.000,0.000,0.000,0.000" EPT_Object_ElementID="2" EPT_MovieActor_IsRealTimeInterpolate="False" EPT_MovieActor_FlexibleBodyImportance="0.1" EPT_MovieActor_EnableAutoScaleWhenBinded="False" EPT_MovieActor_AutoScaleValueMale="1" EPT_MovieActor_AutoScaleValueLittleBoy="1" EPT_MovieActor_AutoScaleValueFemale="1" EPT_MovieActor_AutoScaleValueLittleGirl="1" EPT_MovieActor_DefaultAniName="" EPT_MovieActor_EnableFlexibleAnimation="True" EPT_MovieActor_RtxForceEnable="False" EPT_MovieActor_RtxForceDisable="False" EPT_MovieActor_RtxRadius="0" EPT_MovieActor_MaterialDetail="-1,0" EPT_MovieActor_IsCreateApex="False" EPT_MovieActor_IsMainPlayer="False" EPT_MovieActor_EnableDecal="False" EPT_MovieActor_LodLevel="0" EPT_MovieActor_CullLevel="0" EPT_MovieActor_EnableCombiMesh="True" EPT_MovieActor_Editor_SceneNodeModelFlag="0" EPT_MovieActor_TagName="" />
+    </KObject>
+    <KAction ActionType="EAT_ActorAnimation" Name="EAT_ActorAnimation87" ActionGuid="6e933a1a-9cbd-499c-ab2f-799ece18e1ae" ParentActionGuid="00000000-0000-0000-0000-000000000000">
+      <KProperty EPT_TEXT="Animation_m2b01ty普通待机01_000" EPT_ActionStartFrame="0" EPT_ActionLength="110" EPT_ActionIsDuration="True" EPT_ActionShowRepesent="True" EPT_ActionPlaySpeed="1" EPT_Action_Animation_AniResource="data\source\player\m2\动作\m2b01ty普通待机01.ani" EPT_Action_Animation_AniLength="2560" EPT_Action_Animation_PlaySpeed="1" EPT_Action_Animation_StartPos="0" EPT_Action_Animation_PlayType="2" EPT_Action_Animation_TweenTime="200" EPT_Action_Animation_StopWhenActionFinish="True" />
+    </KAction>
+    <KAction ActionType="EAT_NewFaceAnimation" Name="EAT_NewFaceAnimation89" ActionGuid="34e39c8e-c520-4c5a-a3e4-b2088bef347b" ParentActionGuid="00000000-0000-0000-0000-000000000000">
+      <KProperty EPT_TEXT="FaceAni_m2_1011_face_smile_000" EPT_ActionStartFrame="45" EPT_ActionLength="32" EPT_ActionIsDuration="True" EPT_ActionShowRepesent="True" EPT_ActionPlaySpeed="1" EPT_Action_Animation_AniResource="data\source\player\m2\动作\face\m2_1011_face_smile.ani" EPT_Action_Animation_AniLength="1056" EPT_Action_Animation_PlaySpeed="1" EPT_Action_Animation_StartPos="0" EPT_Action_Animation_PlayType="2" EPT_Action_Animation_TweenTime="200" EPT_Action_Animation_StopWhenActionFinish="True" />
+    </KAction>
+  </Elements>
+  <ListElementAniGroup ListElementAniGroupCount="3" ListElementAniGroupValue="0,1,2" />
+  <EditorData CameraPos="21507.070,-1829.424,23325.560" CameraLookAt="21576.870,-1880.527,23805.360" CameraRoll="0.000" />
+  <AllLayerInfo LayerCount="0" />
+</PlotData>
