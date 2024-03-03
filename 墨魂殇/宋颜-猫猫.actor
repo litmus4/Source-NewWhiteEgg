@@ -4,6 +4,8 @@ FaceDefIni=
 bReDress=1
 PartNum=14
 BindNum=0
+MetaFaceDefJson=
+BodyDefIni=
 
 [Part1]
 Have=1
