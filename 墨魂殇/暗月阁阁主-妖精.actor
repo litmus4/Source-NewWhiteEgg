@@ -2,8 +2,10 @@
 DependModel=data\source\player\m2\部件\mdl\m2.mdl
 FaceDefIni=..\MovieEditor\source\FaceData\face妖精的舒畅.ini
 bReDress=1
-PartNum=13
+PartNum=14
 BindNum=0
+MetaFaceDefJson=
+BodyDefIni=
 
 [Part1]
 Have=1
@@ -54,5 +56,8 @@ Have=0
 Have=0
 
 [Part13]
+Have=0
+
+[Part14]
 Have=0
 
