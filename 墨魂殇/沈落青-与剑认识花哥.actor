@@ -4,6 +4,8 @@ FaceDefIni=..\MovieEditor\source\FaceData\Face_StandardMale_20220810-200051-”ÎΩ£
 bReDress=1
 PartNum=14
 BindNum=0
+MetaFaceDefJson=
+BodyDefIni=
 
 [Part1]
 Have=1
