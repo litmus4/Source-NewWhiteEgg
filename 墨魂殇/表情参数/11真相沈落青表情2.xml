@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FaceLiftData>
+  <Item type="FPT_YanjingKaihe" value="12" />
+  <Item type="FPT_MeiguTuchu" value="7" />
+  <Item type="FPT_MeimaoQingxie" value="102" />
+  <Item type="FPT_MeimaoGaodu" value="-33" />
+  <Item type="FPT_TongkongDaxiao" value="-29" />
+  <Item type="FPT_TongkongWeizhi" value="34" />
+  <Item type="FPT_ShangyanjianGaodu" value="17" />
+  <Item type="FPT_XiayanjianGaodu" value="-17" />
+  <Item type="FPT_ZuibaWeizhi" value="13" />
+  <Item type="FPT_ZuibaDaxiao" value="-44" />
+  <Item type="FPT_ZuichunKaihe" value="26" />
+  <Item type="FPT_ZuijiaoWeizhi" value="3" />
+  <Item type="FPT_ZuibaTuchu" value="-29" />
+  <Item type="FPT_ShangchunHoudu" value="-18" />
+  <Item type="FPT_XiachunHoudu" value="-21" />
+  <Item type="FPT_ShangchunWeizhi" value="-32" />
+  <Item type="FPT_XiachunWeizhi" value="21" />
+  <Item type="FPT_ZuozuijiaoGaodu" value="10" />
+  <Item type="FPT_YouzuijiaoGaodu" value="10" />
+  <Item type="FPT_LianjiaKuandu" value="91" />
+  <Item type="FPT_LianjiaGaodu" value="-33" />
+  <Item type="FPT_ZuoyanXieshi" value="35" />
+  <Item type="FPT_YouyanXieshi" value="35" />
+  <Item type="FPT_ZuoyanKaihe" value="26" />
+  <Item type="FPT_YouyanKaihe" value="40" />
+  <Item type="FPT_XiabaKaihe" value="0" />
+</FaceLiftData>
